@@ -1,0 +1,53 @@
+﻿<Controls:MetroWindow x:Class="Anakapur.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+          xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+                    
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Anakapur"
+        mc:Ignorable="d"
+        Title="Login Window" Height="282.895"
+        Width="500"     
+        ResizeMode="NoResize"
+        WindowStartupLocation="CenterScreen" BorderBrush="Black" BorderThickness="1">
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/Resources/icons.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Window.Resources>
+    <Grid >
+      <!--<Image Source="/Images/btnBckGrnd.jpg" Stretch="UniformToFill" Height="256" VerticalAlignment="Top" Margin="0,0,0,-4"/>-->
+
+        <Border Margin="20,20,20,20" BorderThickness="1" BorderBrush="Gray" CornerRadius="5">
+            <DockPanel>
+                <StackPanel DockPanel.Dock="Left">
+                    <Image Source="/Images/ankapurlogo.png" Width="200" Height="200"></Image>
+
+                </StackPanel>
+
+                <StackPanel DockPanel.Dock="Right" VerticalAlignment="Center" HorizontalAlignment="Center">
+                    <TextBox  Controls:TextBoxHelper.Watermark="Enter pin number" Name="textBox" MaxLength="10" FontSize="15" FontWeight="Bold" CharacterCasing="Upper" KeyDown="textBox_KeyDown_1" GotFocus="textBox_GotFocus" LostFocus="textBox_LostFocus"/>
+                      <Button  Click="button_Click_1" Style="{StaticResource AccentedSquareButtonStyle}" Margin="10,20,10,10" Width="150" >
+                        <StackPanel Orientation="Horizontal">
+                            <Rectangle Width="30"
+                   Height="25"
+                   Fill="{Binding RelativeSource={RelativeSource AncestorType=Button}, Path=Foreground}">
+                                <Rectangle.OpacityMask>
+                                    <VisualBrush Stretch="Fill" Visual="{StaticResource appbar_key}" />
+                                </Rectangle.OpacityMask>
+                            </Rectangle>
+                            <TextBlock Margin="4 0 0 0"
+                   VerticalAlignment="Center"
+                   Text="Login" />
+                        </StackPanel>
+                    </Button>
+                </StackPanel>
+              
+              
+            </DockPanel>
+        </Border>
+    </Grid>
+</Controls:MetroWindow>

@@ -1,0 +1,28 @@
+﻿<Page x:Class="Anakapur.Combo"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Anakapur"
+      mc:Ignorable="d"
+      Title="Combo" Height="350" Width="525">
+
+    <Grid Margin="0,0,0,19">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="0*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <!--<RowDefinition Height="*" />-->
+        </Grid.RowDefinitions>
+
+        <Button x:Name="btnBreakFast" Content="BreakFast" HorizontalAlignment="Left" Margin="10,59,0,5" Width="75" Click="btnBreakFast_Click" />
+        <Button x:Name="btnLunch" Content="Lunch/Dinner" HorizontalAlignment="Left" Margin="158,59,0,0" VerticalAlignment="Top" Width="75" Height="25" RenderTransformOrigin="0.489,3.574" />
+        <Button x:Name="btnCombo" Content="Combo" HorizontalAlignment="Left" Margin="440,59,0,0" VerticalAlignment="Top" Width="75" Height="20" />
+        <Button x:Name="btnFamilyPack" Content="Family Pack" HorizontalAlignment="Left" Margin="304,59,0,0" VerticalAlignment="Top" Width="75" Height="20"/>
+        <StackPanel Name="spdata" Width="Auto" />
+        <!--<DataGrid x:Name="dataGrid" HorizontalAlignment="Left" Margin="532,428,0,0" VerticalAlignment="Top" Height="498" Width="664"/>-->
+
+    </Grid>
+</Page>

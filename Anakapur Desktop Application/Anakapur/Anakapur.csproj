@@ -1,0 +1,669 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EB7E4B61-BE90-47BA-9F14-03621BB85BC8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Anakapur</RootNamespace>
+    <AssemblyName>Anakapur</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
+    <PublishUrl>C:\Users\xsisireesh\Desktop\ankapurramahn3052018\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>154</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>2F5F0CA6F316E27151D3D952E52978788952047E</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Anakapur_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>cropped-anakpur-1-32x32.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="InputSimulator">
+      <HintPath>..\..\..\..\..\WpfKb.0.1.0.0-bin\InputSimulator.dll</HintPath>
+    </Reference>
+    <Reference Include="MahApps.Metro, Version=1.3.0.0, Culture=neutral, PublicKeyToken=f4fb5a3c4d1e5b4f, processorArchitecture=MSIL">
+      <HintPath>..\packages\MahApps.Metro.1.3.0\lib\net45\MahApps.Metro.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MahApps.Metro.SimpleChildWindow, Version=1.3.0.0, Culture=neutral, PublicKeyToken=bbbfdff7f500a992, processorArchitecture=MSIL">
+      <HintPath>..\packages\MahApps.Metro.SimpleChildWindow.1.3.0\lib\net45\MahApps.Metro.SimpleChildWindow.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Maps.MapControl.WPF">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Bing Maps WPF Control\V1\Libraries\Microsoft.Maps.MapControl.WPF.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Windows.Shell, Version=3.5.41019.1, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.6.0.4\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="RibbonControlsLibrary, Version=3.5.41019.1, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http.Formatting, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.Client.5.2.3\lib\net45\System.Net.Http.Formatting.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Speech" />
+    <Reference Include="System.Web.DataVisualization" />
+    <Reference Include="System.Web.DataVisualization.Design" />
+    <Reference Include="system.windows.controls.datavisualization.toolkit">
+      <HintPath>..\..\..\..\..\..\Downloads\system.windows.controls.datavisualization.toolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Controls.Input.Toolkit">
+      <HintPath>..\..\..\..\..\..\Downloads\System.Windows.Controls.Input.Toolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Controls.Layout.Toolkit">
+      <HintPath>..\..\..\..\..\..\Downloads\System.Windows.Controls.Layout.Toolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Controls.Ribbon" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Windows.Forms.DataVisualization.Design" />
+    <Reference Include="System.Windows.Interactivity, Version=4.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\MahApps.Metro.1.3.0\lib\net45\System.Windows.Interactivity.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="UIAutomationClient" />
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="UIAutomationTypes" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="WPFToolkit, Version=3.5.40128.1, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Downloads\files\WPFToolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="Xceed.Wpf.AvalonDock, Version=3.0.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Extended.Wpf.Toolkit.3.0\lib\net40\Xceed.Wpf.AvalonDock.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Xceed.Wpf.AvalonDock.Themes.Aero, Version=3.0.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Extended.Wpf.Toolkit.3.0\lib\net40\Xceed.Wpf.AvalonDock.Themes.Aero.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Xceed.Wpf.AvalonDock.Themes.Metro, Version=3.0.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Extended.Wpf.Toolkit.3.0\lib\net40\Xceed.Wpf.AvalonDock.Themes.Metro.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Xceed.Wpf.AvalonDock.Themes.VS2010, Version=3.0.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Extended.Wpf.Toolkit.3.0\lib\net40\Xceed.Wpf.AvalonDock.Themes.VS2010.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Xceed.Wpf.Toolkit">
+      <HintPath>..\packages\Extended.Wpf.Toolkit.3.0\lib\net40\Xceed.Wpf.Toolkit.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="DashBoard.xaml.cs">
+      <DependentUpon>DashBoard.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="DishesNotAvailable.xaml.cs">
+      <DependentUpon>DishesNotAvailable.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Dispatch.xaml.cs">
+      <DependentUpon>Dispatch.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Drivers.xaml.cs">
+      <DependentUpon>Drivers.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="EditOrder.xaml.cs">
+      <DependentUpon>EditOrder.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="empAddPage.xaml.cs">
+      <DependentUpon>empAddPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="LandingPage.xaml.cs">
+      <DependentUpon>LandingPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="LastOrderView.xaml.cs">
+      <DependentUpon>LastOrderView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="NewOrder.xaml.cs">
+      <DependentUpon>NewOrder.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="OrdersUpdate.xaml.cs">
+      <DependentUpon>OrdersUpdate.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Part.cs" />
+    <Compile Include="ProductAailabilityPage.xaml.cs">
+      <DependentUpon>ProductAailabilityPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ProductsPage.xaml.cs">
+      <DependentUpon>ProductsPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Profile.xaml.cs">
+      <DependentUpon>Profile.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Report1.xaml.cs">
+      <DependentUpon>Report1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ReportsPage.xaml.cs">
+      <DependentUpon>ReportsPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="RestaurantWindow.xaml.cs">
+      <DependentUpon>RestaurantWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="SearchCustomer.xaml.cs">
+      <DependentUpon>SearchCustomer.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="SearchResults.xaml.cs">
+      <DependentUpon>SearchResults.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Service References\SMSCAPI\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="ShowOrderOnMap.xaml.cs">
+      <DependentUpon>ShowOrderOnMap.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="SMS.xaml.cs">
+      <DependentUpon>SMS.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="test.xaml.cs">
+      <DependentUpon>test.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="test1.xaml.cs">
+      <DependentUpon>test1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Tickets.xaml.cs">
+      <DependentUpon>Tickets.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Tickets1.xaml.cs">
+      <DependentUpon>Tickets1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="TotalReport.xaml.cs">
+      <DependentUpon>TotalReport.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UCTickets.xaml.cs">
+      <DependentUpon>UCTickets.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ViewOrdersPage.xaml.cs">
+      <DependentUpon>ViewOrdersPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="wn.xaml.cs">
+      <DependentUpon>wn.xaml</DependentUpon>
+    </Compile>
+    <Page Include="DashBoard.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="DishesNotAvailable.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Dispatch.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Drivers.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="EditOrder.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="empAddPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Employee.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="LandingPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="LastOrderView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="LoginWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="NewOrder.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="OrdersUpdate.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Pages\BreakFast.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\Combo.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\CustomerDetailsPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\FamilyPack.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\Lunch.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Employee.xaml.cs">
+      <DependentUpon>Employee.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="LoginWindow.xaml.cs">
+      <DependentUpon>LoginWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\BreakFast.xaml.cs">
+      <DependentUpon>BreakFast.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Combo.xaml.cs">
+      <DependentUpon>Combo.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\CustomerDetailsPage.xaml.cs">
+      <DependentUpon>CustomerDetailsPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\FamilyPack.xaml.cs">
+      <DependentUpon>FamilyPack.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Lunch.xaml.cs">
+      <DependentUpon>Lunch.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="Pages\MyOrder.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Pages\New Order.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ProductAailabilityPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="ProductsPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Profile.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Report1.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="ReportsPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Resources\Icons.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Resources\IconsNonShared.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="RestaurantWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="SearchCustomer.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="SearchResults.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ShowOrderOnMap.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="SMS.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="test.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="test1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Tickets.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Tickets1.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="TotalReport.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="UCTickets.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="ViewOrdersPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="wn.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Pages\MyOrder.xaml.cs">
+      <DependentUpon>MyOrder.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\New Order.xaml.cs">
+      <DependentUpon>New Order.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="bin\Debug\Anakapur.exe.config" />
+    <None Include="bin\Debug\Anakapur.vshost.exe.config" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+    <Resource Include="Resources\Entypo.ttf" />
+    <None Include="Service References\SMSCAPI\Anakapur.SMSCAPI.GetbalanceResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\SMSCAPI\Anakapur.SMSCAPI.GetDeliveryReportResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\SMSCAPI\Anakapur.SMSCAPI.getInboxResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\SMSCAPI\Anakapur.SMSCAPI.MarkRead_inboxResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\SMSCAPI\Anakapur.SMSCAPI.Mark_UnRead_inboxResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\SMSCAPI\Anakapur.SMSCAPI.SendBinarySMSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\SMSCAPI\Anakapur.SMSCAPI.SendFlashSMSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\SMSCAPI\Anakapur.SMSCAPI.SendLOGOResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\SMSCAPI\Anakapur.SMSCAPI.sendMultiSMSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\SMSCAPI\Anakapur.SMSCAPI.SendPictureSMSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\SMSCAPI\Anakapur.SMSCAPI.SendRingToneResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\SMSCAPI\Anakapur.SMSCAPI.SendTextSMSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\SMSCAPI\Anakapur.SMSCAPI.SendUnicodeSMSResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\SMSCAPI\Anakapur.SMSCAPI.SendWapPushResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\SMSCAPI\service.wsdl" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AnkapurBAL\AnkapurBAL.csproj">
+      <Project>{f09fc6bb-9a4f-4e0b-918a-f71a32f9b5d2}</Project>
+      <Name>AnkapurBAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AnkapurDAL\AnkapurDAL.csproj">
+      <Project>{b7864714-eddd-4717-8896-9e5a03aff15b}</Project>
+      <Name>AnkapurDAL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\1353183085_save.png" />
+    <Resource Include="Images\add.png" />
+    <Resource Include="Images\copy.png" />
+    <Resource Include="Images\customer.png" />
+    <Resource Include="Images\cut.png" />
+    <Resource Include="Images\dishes.png" />
+    <Resource Include="Images\dishtype.png" />
+    <Resource Include="Images\format_painter.png" />
+    <Resource Include="Images\go-next.png" />
+    <Resource Include="Images\go-previous.png" />
+    <Resource Include="Images\help.png" />
+    <Resource Include="Images\home.png" />
+    <Resource Include="Images\Location-icon.png" />
+    <Resource Include="Images\options.png" />
+    <Resource Include="Images\paste.png" />
+    <Resource Include="Images\personal.png" />
+    <Resource Include="Images\quit.png" />
+    <Resource Include="Images\redo.png" />
+    <Resource Include="Images\Restaurant-Blue-icon.png" />
+    <Resource Include="Images\save.png" />
+    <Resource Include="Images\undo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\loginBckGrnd.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\ankapurlogo.png" />
+    <Resource Include="Images\breakfast.png" />
+    <Resource Include="Images\btnbckgrnd.jpg" />
+    <Resource Include="Images\combos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\dinner.png" />
+    <Resource Include="Images\FamilyPack.png" />
+    <Resource Include="Images\Lunch.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\orders.png" />
+    <Resource Include="Images\payments.png" />
+    <Resource Include="Images\restrurant.png" />
+    <Resource Include="Images\tickets.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Delivery.png" />
+    <Resource Include="Images\Orderupdateicon.png" />
+    <Resource Include="Images\Status.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\All-menu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\Anakapur.vshost.exe" />
+    <Resource Include="cropped-anakpur-1-32x32.ico" />
+    <Resource Include="Images\addons1.jpg" />
+    <Resource Include="Images\admin1.jpg" />
+    <Resource Include="Images\allmenu1.jpg" />
+    <Resource Include="Images\breakfast1.jpg" />
+    <Resource Include="Images\customer1.jpg" />
+    <Resource Include="Images\employee1.jpg" />
+    <Resource Include="Images\lunchanddinner1.jpg" />
+    <Resource Include="Images\mealcombo1.jpg" />
+    <Resource Include="Images\neworder1.jpg" />
+    <Resource Include="Images\orderdispatch1.jpg" />
+    <Resource Include="Images\orderupdate1.jpg" />
+    <Resource Include="Images\partycombo1.jpg" />
+    <Resource Include="Images\productavailablity1.jpg" />
+    <Resource Include="Images\specialcombo1.jpg" />
+    <Resource Include="Images\tickets1.jpg" />
+    <Resource Include="Images\vieworder1.jpg" />
+    <Resource Include="Images\reports.jpg" />
+    <Resource Include="Images\Mobile icon.png" />
+    <Resource Include="Images\mobicon2.png" />
+    <Content Include="Images\Windows Startup.wav" />
+    <Resource Include="Images\AC.jpg" />
+    <Resource Include="Images\allmenus.png" />
+    <Resource Include="Images\db.png" />
+    <Resource Include="Resources\Entypo-license.txt" />
+    <Resource Include="Resources\WindowsIcons-license.txt" />
+    <Resource Include="Images\addons.png" />
+    <Resource Include="Images\admin.png" />
+    <Resource Include="Images\dispatchorder.png" />
+    <Resource Include="Images\lunchanddinner.png" />
+    <Resource Include="Images\mealcombo.png" />
+    <Resource Include="Images\neworder.png" />
+    <Resource Include="Images\orderupdate.png" />
+    <Resource Include="Images\specialcombo.png" />
+    <Resource Include="Images\ticket.png" />
+    <Resource Include="Images\vieworder.png" />
+    <Resource Include="Images\partycombo.png" />
+    <Resource Include="Images\Logout.png" />
+    <Resource Include="Images\vorders.png" />
+    <Resource Include="Images\Combo.png" />
+    <Resource Include="Images\employee.png" />
+    <None Include="Service References\SMSCAPI\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Service References\SMSCAPI\configuration.svcinfo" />
+    <None Include="Service References\SMSCAPI\configuration91.svcinfo" />
+    <None Include="Service References\SMSCAPI\service.disco" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Service References\SMSCAPI\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+  </PropertyGroup>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

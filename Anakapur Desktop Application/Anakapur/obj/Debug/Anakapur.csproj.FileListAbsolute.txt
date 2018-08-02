@@ -1,0 +1,1523 @@
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\Anakapur.csprojResolveAssemblyReference.cache
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\Resources\Icons.baml
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\Dispatch.g.cs
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\empAddPage.g.cs
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\Employee.g.cs
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\LandingPage.g.cs
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\LastOrderView.g.cs
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\LoginWindow.g.cs
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\NewOrder.g.cs
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\OrdersUpdate.g.cs
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\Pages\BreakFast.g.cs
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\Pages\Combo.g.cs
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\Pages\CustomerDetailsPage.g.cs
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\Pages\FamilyPack.g.cs
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\Pages\Lunch.g.cs
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\MainWindow.g.cs
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\Pages\MyOrder.g.cs
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\Pages\New Order.g.cs
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\ProductAailabilityPage.g.cs
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\ProductsPage.g.cs
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\Profile.g.cs
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\Report1.g.cs
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\ReportsPage.g.cs
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\RestaurantWindow.g.cs
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\SearchCustomer.g.cs
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\ShowOrderOnMap.g.cs
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\SMS.g.cs
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\Tickets.g.cs
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\Tickets1.g.cs
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\UCTickets.g.cs
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\ViewOrdersPage.g.cs
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\App.g.cs
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\Anakapur_Content.g.cs
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\Anakapur_MarkupCompile.cache
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\Anakapur_MarkupCompile.lref
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\bin\Debug\Anakapur.exe.config
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\bin\Debug\Anakapur.exe.manifest
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\bin\Debug\Anakapur.application
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\bin\Debug\Anakapur.exe
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\bin\Debug\Anakapur.pdb
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\bin\Debug\AnkapurBAL.dll
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\bin\Debug\AnkapurDAL.dll
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\bin\Debug\MahApps.Metro.dll
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\bin\Debug\MahApps.Metro.SimpleChildWindow.dll
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\bin\Debug\RibbonControlsLibrary.dll
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\bin\Debug\WPFToolkit.dll
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\bin\Debug\AnkapurBAL.pdb
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\bin\Debug\AnkapurDAL.pdb
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\bin\Debug\MahApps.Metro.pdb
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\bin\Debug\MahApps.Metro.xml
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\bin\Debug\MahApps.Metro.SimpleChildWindow.pdb
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\bin\Debug\MahApps.Metro.SimpleChildWindow.xml
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\bin\Debug\RibbonControlsLibrary.pdb
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\bin\Debug\RibbonControlsLibrary.xml
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\App.baml
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\Dispatch.baml
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\empAddPage.baml
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\Employee.baml
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\LandingPage.baml
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\LastOrderView.baml
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\LoginWindow.baml
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\NewOrder.baml
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\OrdersUpdate.baml
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\Pages\BreakFast.baml
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\Pages\Combo.baml
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\Pages\CustomerDetailsPage.baml
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\Pages\FamilyPack.baml
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\Pages\Lunch.baml
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\MainWindow.baml
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\Pages\MyOrder.baml
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\Pages\New Order.baml
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\ProductAailabilityPage.baml
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\ProductsPage.baml
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\Profile.baml
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\Report1.baml
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\ReportsPage.baml
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\RestaurantWindow.baml
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\SearchCustomer.baml
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\ShowOrderOnMap.baml
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\SMS.baml
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\Tickets.baml
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\Tickets1.baml
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\UCTickets.baml
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\ViewOrdersPage.baml
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\Anakapur.g.resources
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\Anakapur.Properties.Resources.resources
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\Anakapur.csproj.GenerateResource.Cache
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\Anakapur.exe.manifest
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\Anakapur.application
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\Anakapur.exe
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\Anakapur.pdb
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\Drivers.g.cs
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\Drivers.baml
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\test.g.cs
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\test.baml
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\DishesNotAvailable.g.cs
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\bin\Debug\InputSimulator.dll
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\bin\Debug\InputSimulator.pdb
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\bin\Debug\InputSimulator.xml
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\DishesNotAvailable.baml
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\SearchResults.g.cs
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\SearchResults.baml
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\test1.g.cs
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\wn.g.cs
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\test1.baml
+C:\Users\venkat\Documents\Visual Studio 2015\Projects\Project3\AnkapurProject\Anakapur\obj\Debug\wn.baml
+C:\Users\user\Documents\latest dump\Anakapur\bin\Debug\Anakapur.exe.config
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\Anakapur.exe
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\Anakapur.pdb
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\Anakapur.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\Resources\Icons.baml
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\DishesNotAvailable.g.cs
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\Dispatch.g.cs
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\Drivers.g.cs
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\empAddPage.g.cs
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\Employee.g.cs
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\LandingPage.g.cs
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\LastOrderView.g.cs
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\LoginWindow.g.cs
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\NewOrder.g.cs
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\OrdersUpdate.g.cs
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\Pages\BreakFast.g.cs
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\Pages\Combo.g.cs
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\Pages\CustomerDetailsPage.g.cs
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\Pages\FamilyPack.g.cs
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\Pages\Lunch.g.cs
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\MainWindow.g.cs
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\Pages\MyOrder.g.cs
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\Pages\New Order.g.cs
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\ProductAailabilityPage.g.cs
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\ProductsPage.g.cs
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\Profile.g.cs
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\Report1.g.cs
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\ReportsPage.g.cs
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\RestaurantWindow.g.cs
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\SearchCustomer.g.cs
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\SearchResults.g.cs
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\ShowOrderOnMap.g.cs
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\SMS.g.cs
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\test.g.cs
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\test1.g.cs
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\Tickets.g.cs
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\Tickets1.g.cs
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\UCTickets.g.cs
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\ViewOrdersPage.g.cs
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\wn.g.cs
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\App.g.cs
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\Anakapur_Content.g.cs
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\Anakapur_MarkupCompile.cache
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\Anakapur_MarkupCompile.lref
+C:\Users\user\Documents\latest dump\Anakapur\bin\Debug\Anakapur.exe.manifest
+C:\Users\user\Documents\latest dump\Anakapur\bin\Debug\Anakapur.application
+C:\Users\user\Documents\latest dump\Anakapur\bin\Debug\Anakapur.exe
+C:\Users\user\Documents\latest dump\Anakapur\bin\Debug\Anakapur.pdb
+C:\Users\user\Documents\latest dump\Anakapur\bin\Debug\AnkapurBAL.dll
+C:\Users\user\Documents\latest dump\Anakapur\bin\Debug\AnkapurDAL.dll
+C:\Users\user\Documents\latest dump\Anakapur\bin\Debug\MahApps.Metro.dll
+C:\Users\user\Documents\latest dump\Anakapur\bin\Debug\MahApps.Metro.SimpleChildWindow.dll
+C:\Users\user\Documents\latest dump\Anakapur\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\user\Documents\latest dump\Anakapur\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\user\Documents\latest dump\Anakapur\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\user\Documents\latest dump\Anakapur\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\user\Documents\latest dump\Anakapur\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\user\Documents\latest dump\Anakapur\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\user\Documents\latest dump\Anakapur\bin\Debug\AnkapurBAL.pdb
+C:\Users\user\Documents\latest dump\Anakapur\bin\Debug\AnkapurDAL.pdb
+C:\Users\user\Documents\latest dump\Anakapur\bin\Debug\MahApps.Metro.pdb
+C:\Users\user\Documents\latest dump\Anakapur\bin\Debug\MahApps.Metro.xml
+C:\Users\user\Documents\latest dump\Anakapur\bin\Debug\MahApps.Metro.SimpleChildWindow.pdb
+C:\Users\user\Documents\latest dump\Anakapur\bin\Debug\MahApps.Metro.SimpleChildWindow.xml
+C:\Users\user\Documents\latest dump\Anakapur\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\user\Documents\latest dump\Anakapur\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\user\Documents\latest dump\Anakapur\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\user\Documents\latest dump\Anakapur\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\user\Documents\latest dump\Anakapur\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\user\Documents\latest dump\Anakapur\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\user\Documents\latest dump\Anakapur\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\user\Documents\latest dump\Anakapur\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\user\Documents\latest dump\Anakapur\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\user\Documents\latest dump\Anakapur\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\App.baml
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\DishesNotAvailable.baml
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\Dispatch.baml
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\Drivers.baml
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\empAddPage.baml
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\Employee.baml
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\LandingPage.baml
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\LastOrderView.baml
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\LoginWindow.baml
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\NewOrder.baml
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\OrdersUpdate.baml
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\Pages\BreakFast.baml
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\Pages\Combo.baml
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\Pages\CustomerDetailsPage.baml
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\Pages\FamilyPack.baml
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\Pages\Lunch.baml
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\MainWindow.baml
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\Pages\MyOrder.baml
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\Pages\New Order.baml
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\ProductAailabilityPage.baml
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\ProductsPage.baml
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\Profile.baml
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\Report1.baml
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\ReportsPage.baml
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\RestaurantWindow.baml
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\SearchCustomer.baml
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\SearchResults.baml
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\ShowOrderOnMap.baml
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\SMS.baml
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\test.baml
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\test1.baml
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\Tickets.baml
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\Tickets1.baml
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\UCTickets.baml
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\ViewOrdersPage.baml
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\wn.baml
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\Anakapur.g.resources
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\Anakapur.Properties.Resources.resources
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\Anakapur.csproj.GenerateResource.Cache
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\Anakapur.exe.manifest
+C:\Users\user\Documents\latest dump\Anakapur\obj\Debug\Anakapur.application
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\bin\Debug\Anakapur.exe.config
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\Anakapur.exe
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\Anakapur.pdb
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\bin\Debug\Anakapur.exe.manifest
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\bin\Debug\Anakapur.application
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\bin\Debug\Anakapur.exe
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\bin\Debug\Anakapur.pdb
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\bin\Debug\AnkapurBAL.dll
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\bin\Debug\AnkapurDAL.dll
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\bin\Debug\MahApps.Metro.dll
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\bin\Debug\MahApps.Metro.SimpleChildWindow.dll
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\bin\Debug\RibbonControlsLibrary.dll
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\bin\Debug\AnkapurBAL.pdb
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\bin\Debug\AnkapurDAL.pdb
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\bin\Debug\MahApps.Metro.pdb
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\bin\Debug\MahApps.Metro.xml
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\bin\Debug\MahApps.Metro.SimpleChildWindow.pdb
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\bin\Debug\MahApps.Metro.SimpleChildWindow.xml
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\bin\Debug\RibbonControlsLibrary.pdb
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\bin\Debug\RibbonControlsLibrary.xml
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\Anakapur.csprojResolveAssemblyReference.cache
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\Resources\Icons.baml
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\DishesNotAvailable.g.cs
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\Dispatch.g.cs
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\Drivers.g.cs
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\empAddPage.g.cs
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\Employee.g.cs
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\LandingPage.g.cs
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\LastOrderView.g.cs
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\LoginWindow.g.cs
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\NewOrder.g.cs
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\OrdersUpdate.g.cs
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\Pages\BreakFast.g.cs
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\Pages\Combo.g.cs
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\Pages\CustomerDetailsPage.g.cs
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\Pages\FamilyPack.g.cs
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\Pages\Lunch.g.cs
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\MainWindow.g.cs
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\Pages\MyOrder.g.cs
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\Pages\New Order.g.cs
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\ProductAailabilityPage.g.cs
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\ProductsPage.g.cs
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\Profile.g.cs
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\Report1.g.cs
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\ReportsPage.g.cs
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\RestaurantWindow.g.cs
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\SearchCustomer.g.cs
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\SearchResults.g.cs
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\ShowOrderOnMap.g.cs
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\SMS.g.cs
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\test.g.cs
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\test1.g.cs
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\Tickets.g.cs
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\Tickets1.g.cs
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\UCTickets.g.cs
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\ViewOrdersPage.g.cs
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\wn.g.cs
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\App.g.cs
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\Anakapur_Content.g.cs
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\Anakapur_MarkupCompile.cache
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\Anakapur_MarkupCompile.lref
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\App.baml
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\DishesNotAvailable.baml
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\Dispatch.baml
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\Drivers.baml
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\empAddPage.baml
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\Employee.baml
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\LandingPage.baml
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\LastOrderView.baml
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\LoginWindow.baml
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\NewOrder.baml
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\OrdersUpdate.baml
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\Pages\BreakFast.baml
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\Pages\Combo.baml
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\Pages\CustomerDetailsPage.baml
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\Pages\FamilyPack.baml
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\Pages\Lunch.baml
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\MainWindow.baml
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\Pages\MyOrder.baml
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\Pages\New Order.baml
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\ProductAailabilityPage.baml
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\ProductsPage.baml
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\Profile.baml
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\Report1.baml
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\ReportsPage.baml
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\RestaurantWindow.baml
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\SearchCustomer.baml
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\SearchResults.baml
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\ShowOrderOnMap.baml
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\SMS.baml
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\test.baml
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\test1.baml
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\Tickets.baml
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\Tickets1.baml
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\UCTickets.baml
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\ViewOrdersPage.baml
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\wn.baml
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\Anakapur.g.resources
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\Anakapur.Properties.Resources.resources
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\Anakapur.csproj.GenerateResource.Cache
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\Anakapur.exe.manifest
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\Anakapur.application
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\DashBoard.g.cs
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\TotalReport.g.cs
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\DashBoard.baml
+C:\Users\venkat\Documents\Himayatnagar application\Anakapur\obj\Debug\TotalReport.baml
+C:\Users\user\Documents\HN 23\Anakapur\bin\Debug\Anakapur.exe.config
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\Anakapur.exe
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\Anakapur.pdb
+C:\Users\user\Documents\HN 23\Anakapur\bin\Debug\Anakapur.exe.manifest
+C:\Users\user\Documents\HN 23\Anakapur\bin\Debug\Anakapur.application
+C:\Users\user\Documents\HN 23\Anakapur\bin\Debug\Anakapur.exe
+C:\Users\user\Documents\HN 23\Anakapur\bin\Debug\Anakapur.pdb
+C:\Users\user\Documents\HN 23\Anakapur\bin\Debug\AnkapurBAL.dll
+C:\Users\user\Documents\HN 23\Anakapur\bin\Debug\AnkapurDAL.dll
+C:\Users\user\Documents\HN 23\Anakapur\bin\Debug\MahApps.Metro.dll
+C:\Users\user\Documents\HN 23\Anakapur\bin\Debug\MahApps.Metro.SimpleChildWindow.dll
+C:\Users\user\Documents\HN 23\Anakapur\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\user\Documents\HN 23\Anakapur\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\user\Documents\HN 23\Anakapur\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\user\Documents\HN 23\Anakapur\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\user\Documents\HN 23\Anakapur\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\user\Documents\HN 23\Anakapur\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\user\Documents\HN 23\Anakapur\bin\Debug\AnkapurBAL.pdb
+C:\Users\user\Documents\HN 23\Anakapur\bin\Debug\AnkapurDAL.pdb
+C:\Users\user\Documents\HN 23\Anakapur\bin\Debug\MahApps.Metro.pdb
+C:\Users\user\Documents\HN 23\Anakapur\bin\Debug\MahApps.Metro.xml
+C:\Users\user\Documents\HN 23\Anakapur\bin\Debug\MahApps.Metro.SimpleChildWindow.pdb
+C:\Users\user\Documents\HN 23\Anakapur\bin\Debug\MahApps.Metro.SimpleChildWindow.xml
+C:\Users\user\Documents\HN 23\Anakapur\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\user\Documents\HN 23\Anakapur\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\user\Documents\HN 23\Anakapur\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\user\Documents\HN 23\Anakapur\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\user\Documents\HN 23\Anakapur\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\user\Documents\HN 23\Anakapur\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\user\Documents\HN 23\Anakapur\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\user\Documents\HN 23\Anakapur\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\user\Documents\HN 23\Anakapur\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\user\Documents\HN 23\Anakapur\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\Anakapur.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\Resources\Icons.baml
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\DashBoard.g.cs
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\DishesNotAvailable.g.cs
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\Dispatch.g.cs
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\Drivers.g.cs
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\empAddPage.g.cs
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\Employee.g.cs
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\LandingPage.g.cs
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\LastOrderView.g.cs
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\LoginWindow.g.cs
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\NewOrder.g.cs
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\OrdersUpdate.g.cs
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\Pages\BreakFast.g.cs
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\Pages\Combo.g.cs
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\Pages\CustomerDetailsPage.g.cs
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\Pages\FamilyPack.g.cs
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\Pages\Lunch.g.cs
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\MainWindow.g.cs
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\Pages\MyOrder.g.cs
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\Pages\New Order.g.cs
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\ProductAailabilityPage.g.cs
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\ProductsPage.g.cs
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\Profile.g.cs
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\Report1.g.cs
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\ReportsPage.g.cs
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\RestaurantWindow.g.cs
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\SearchCustomer.g.cs
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\SearchResults.g.cs
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\ShowOrderOnMap.g.cs
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\SMS.g.cs
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\test.g.cs
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\test1.g.cs
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\Tickets.g.cs
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\Tickets1.g.cs
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\TotalReport.g.cs
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\UCTickets.g.cs
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\ViewOrdersPage.g.cs
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\wn.g.cs
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\App.g.cs
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\Anakapur_Content.g.cs
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\Anakapur_MarkupCompile.cache
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\Anakapur_MarkupCompile.lref
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\App.baml
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\DashBoard.baml
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\DishesNotAvailable.baml
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\Dispatch.baml
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\Drivers.baml
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\empAddPage.baml
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\Employee.baml
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\LandingPage.baml
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\LastOrderView.baml
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\LoginWindow.baml
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\NewOrder.baml
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\OrdersUpdate.baml
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\Pages\BreakFast.baml
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\Pages\Combo.baml
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\Pages\CustomerDetailsPage.baml
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\Pages\FamilyPack.baml
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\Pages\Lunch.baml
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\MainWindow.baml
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\Pages\MyOrder.baml
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\Pages\New Order.baml
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\ProductAailabilityPage.baml
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\ProductsPage.baml
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\Profile.baml
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\Report1.baml
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\ReportsPage.baml
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\RestaurantWindow.baml
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\SearchCustomer.baml
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\SearchResults.baml
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\ShowOrderOnMap.baml
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\SMS.baml
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\test.baml
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\test1.baml
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\Tickets.baml
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\Tickets1.baml
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\TotalReport.baml
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\UCTickets.baml
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\ViewOrdersPage.baml
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\wn.baml
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\Anakapur.g.resources
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\Anakapur.Properties.Resources.resources
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\Anakapur.csproj.GenerateResource.Cache
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\Anakapur.exe.manifest
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\Anakapur.application
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\EditOrder.g.cs
+C:\Users\user\Documents\HN 23\Anakapur\obj\Debug\EditOrder.baml
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\bin\Debug\Anakapur.exe.config
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\Anakapur.exe
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\Anakapur.pdb
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\bin\Debug\Anakapur.exe.manifest
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\bin\Debug\Anakapur.application
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\bin\Debug\Anakapur.exe
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\bin\Debug\Anakapur.pdb
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\bin\Debug\AnkapurBAL.dll
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\bin\Debug\AnkapurDAL.dll
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\bin\Debug\MahApps.Metro.dll
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\bin\Debug\MahApps.Metro.SimpleChildWindow.dll
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\bin\Debug\RibbonControlsLibrary.dll
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\bin\Debug\AnkapurBAL.pdb
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\bin\Debug\AnkapurDAL.pdb
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\bin\Debug\MahApps.Metro.pdb
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\bin\Debug\MahApps.Metro.xml
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\bin\Debug\MahApps.Metro.SimpleChildWindow.pdb
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\bin\Debug\MahApps.Metro.SimpleChildWindow.xml
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\bin\Debug\RibbonControlsLibrary.pdb
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\bin\Debug\RibbonControlsLibrary.xml
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\Anakapur.csprojResolveAssemblyReference.cache
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\Resources\Icons.baml
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\DashBoard.g.cs
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\DishesNotAvailable.g.cs
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\Dispatch.g.cs
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\Drivers.g.cs
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\EditOrder.g.cs
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\empAddPage.g.cs
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\Employee.g.cs
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\LandingPage.g.cs
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\LastOrderView.g.cs
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\LoginWindow.g.cs
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\NewOrder.g.cs
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\OrdersUpdate.g.cs
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\Pages\BreakFast.g.cs
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\Pages\Combo.g.cs
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\Pages\CustomerDetailsPage.g.cs
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\Pages\FamilyPack.g.cs
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\Pages\Lunch.g.cs
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\MainWindow.g.cs
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\Pages\MyOrder.g.cs
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\Pages\New Order.g.cs
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\ProductAailabilityPage.g.cs
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\ProductsPage.g.cs
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\Profile.g.cs
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\Report1.g.cs
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\ReportsPage.g.cs
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\RestaurantWindow.g.cs
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\SearchCustomer.g.cs
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\SearchResults.g.cs
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\ShowOrderOnMap.g.cs
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\SMS.g.cs
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\test.g.cs
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\test1.g.cs
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\Tickets.g.cs
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\Tickets1.g.cs
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\TotalReport.g.cs
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\UCTickets.g.cs
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\ViewOrdersPage.g.cs
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\wn.g.cs
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\App.g.cs
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\Anakapur_Content.g.cs
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\Anakapur_MarkupCompile.cache
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\Anakapur_MarkupCompile.lref
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\App.baml
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\DashBoard.baml
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\DishesNotAvailable.baml
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\Dispatch.baml
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\Drivers.baml
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\EditOrder.baml
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\empAddPage.baml
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\Employee.baml
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\LandingPage.baml
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\LastOrderView.baml
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\LoginWindow.baml
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\NewOrder.baml
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\OrdersUpdate.baml
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\Pages\BreakFast.baml
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\Pages\Combo.baml
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\Pages\CustomerDetailsPage.baml
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\Pages\FamilyPack.baml
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\Pages\Lunch.baml
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\MainWindow.baml
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\Pages\MyOrder.baml
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\Pages\New Order.baml
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\ProductAailabilityPage.baml
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\ProductsPage.baml
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\Profile.baml
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\Report1.baml
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\ReportsPage.baml
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\RestaurantWindow.baml
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\SearchCustomer.baml
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\SearchResults.baml
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\ShowOrderOnMap.baml
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\SMS.baml
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\test.baml
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\test1.baml
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\Tickets.baml
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\Tickets1.baml
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\TotalReport.baml
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\UCTickets.baml
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\ViewOrdersPage.baml
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\wn.baml
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\Anakapur.g.resources
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\Anakapur.Properties.Resources.resources
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\Anakapur.csproj.GenerateResource.Cache
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\Anakapur.exe.manifest
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\obj\Debug\Anakapur.application
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\bin\Debug\Newtonsoft.Json.dll
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\bin\Debug\Newtonsoft.Json.xml
+C:\Users\venkat\Desktop\Ankapur New backup 12717\Anakapur\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\bin\Debug\Anakapur.exe.config
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\bin\Debug\Anakapur.exe.manifest
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\bin\Debug\Anakapur.application
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\bin\Debug\Anakapur.exe
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\bin\Debug\Anakapur.pdb
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\bin\Debug\AnkapurBAL.dll
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\bin\Debug\AnkapurDAL.dll
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\bin\Debug\MahApps.Metro.dll
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\bin\Debug\MahApps.Metro.SimpleChildWindow.dll
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\bin\Debug\Newtonsoft.Json.dll
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\bin\Debug\RibbonControlsLibrary.dll
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\bin\Debug\AnkapurBAL.pdb
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\bin\Debug\AnkapurDAL.pdb
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\bin\Debug\MahApps.Metro.pdb
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\bin\Debug\MahApps.Metro.xml
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\bin\Debug\MahApps.Metro.SimpleChildWindow.pdb
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\bin\Debug\MahApps.Metro.SimpleChildWindow.xml
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\bin\Debug\Newtonsoft.Json.xml
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\bin\Debug\RibbonControlsLibrary.pdb
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\bin\Debug\RibbonControlsLibrary.xml
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\Anakapur.csprojResolveAssemblyReference.cache
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\Resources\Icons.baml
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\DashBoard.g.cs
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\DishesNotAvailable.g.cs
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\Dispatch.g.cs
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\Drivers.g.cs
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\EditOrder.g.cs
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\empAddPage.g.cs
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\Employee.g.cs
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\LandingPage.g.cs
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\LastOrderView.g.cs
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\LoginWindow.g.cs
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\NewOrder.g.cs
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\OrdersUpdate.g.cs
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\Pages\BreakFast.g.cs
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\Pages\Combo.g.cs
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\Pages\CustomerDetailsPage.g.cs
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\Pages\FamilyPack.g.cs
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\Pages\Lunch.g.cs
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\MainWindow.g.cs
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\Pages\MyOrder.g.cs
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\Pages\New Order.g.cs
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\ProductAailabilityPage.g.cs
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\ProductsPage.g.cs
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\Profile.g.cs
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\Report1.g.cs
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\ReportsPage.g.cs
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\RestaurantWindow.g.cs
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\SearchCustomer.g.cs
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\SearchResults.g.cs
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\ShowOrderOnMap.g.cs
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\SMS.g.cs
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\test.g.cs
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\test1.g.cs
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\Tickets.g.cs
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\Tickets1.g.cs
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\TotalReport.g.cs
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\UCTickets.g.cs
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\ViewOrdersPage.g.cs
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\wn.g.cs
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\App.g.cs
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\Anakapur_Content.g.cs
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\Anakapur_MarkupCompile.cache
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\Anakapur_MarkupCompile.lref
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\App.baml
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\DashBoard.baml
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\DishesNotAvailable.baml
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\Dispatch.baml
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\Drivers.baml
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\EditOrder.baml
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\empAddPage.baml
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\Employee.baml
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\LandingPage.baml
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\LastOrderView.baml
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\LoginWindow.baml
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\NewOrder.baml
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\OrdersUpdate.baml
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\Pages\BreakFast.baml
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\Pages\Combo.baml
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\Pages\CustomerDetailsPage.baml
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\Pages\FamilyPack.baml
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\Pages\Lunch.baml
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\MainWindow.baml
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\Pages\MyOrder.baml
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\Pages\New Order.baml
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\ProductAailabilityPage.baml
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\ProductsPage.baml
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\Profile.baml
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\Report1.baml
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\ReportsPage.baml
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\RestaurantWindow.baml
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\SearchCustomer.baml
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\SearchResults.baml
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\ShowOrderOnMap.baml
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\SMS.baml
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\test.baml
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\test1.baml
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\Tickets.baml
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\Tickets1.baml
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\TotalReport.baml
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\UCTickets.baml
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\ViewOrdersPage.baml
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\wn.baml
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\Anakapur.g.resources
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\Anakapur.Properties.Resources.resources
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\Anakapur.csproj.GenerateResource.Cache
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\Anakapur.exe.manifest
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\Anakapur.application
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\Anakapur.exe
+C:\Users\venkat\Desktop\Desktop docs 21917\Ankapur New backup 12717\Anakapur\obj\Debug\Anakapur.pdb
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\bin\Debug\Anakapur.exe.config
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur.exe
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur.pdb
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\bin\Debug\Anakapur.exe.manifest
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\bin\Debug\Anakapur.application
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\bin\Debug\Anakapur.exe
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\bin\Debug\Anakapur.pdb
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\bin\Debug\AnkapurBAL.dll
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\bin\Debug\AnkapurDAL.dll
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\bin\Debug\MahApps.Metro.dll
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\bin\Debug\MahApps.Metro.SimpleChildWindow.dll
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\bin\Debug\Newtonsoft.Json.dll
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\bin\Debug\System.Net.Http.Formatting.dll
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\bin\Debug\System.Windows.Interactivity.dll
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\bin\Debug\Xceed.Wpf.AvalonDock.dll
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\bin\Debug\Xceed.Wpf.Toolkit.dll
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\bin\Debug\AnkapurBAL.pdb
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\bin\Debug\AnkapurDAL.pdb
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\bin\Debug\MahApps.Metro.pdb
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\bin\Debug\MahApps.Metro.xml
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\bin\Debug\MahApps.Metro.SimpleChildWindow.pdb
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\bin\Debug\MahApps.Metro.SimpleChildWindow.xml
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\bin\Debug\Microsoft.Windows.Shell.pdb
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\bin\Debug\Microsoft.Windows.Shell.xml
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\bin\Debug\Newtonsoft.Json.xml
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\bin\Debug\RibbonControlsLibrary.pdb
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\bin\Debug\RibbonControlsLibrary.xml
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\bin\Debug\System.Net.Http.Formatting.xml
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur.csprojResolveAssemblyReference.cache
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\Resources\Icons.baml
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\Resources\IconsNonShared.baml
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\DashBoard.g.cs
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\DishesNotAvailable.g.cs
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\Dispatch.g.cs
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\Drivers.g.cs
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\EditOrder.g.cs
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\empAddPage.g.cs
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\Employee.g.cs
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\LandingPage.g.cs
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\LastOrderView.g.cs
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\LoginWindow.g.cs
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\NewOrder.g.cs
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\OrdersUpdate.g.cs
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\BreakFast.g.cs
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\Combo.g.cs
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\CustomerDetailsPage.g.cs
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\FamilyPack.g.cs
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\Lunch.g.cs
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\MainWindow.g.cs
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\MyOrder.g.cs
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\New Order.g.cs
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\ProductAailabilityPage.g.cs
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\ProductsPage.g.cs
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\Profile.g.cs
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\Report1.g.cs
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\ReportsPage.g.cs
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\RestaurantWindow.g.cs
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\SearchCustomer.g.cs
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\SearchResults.g.cs
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\ShowOrderOnMap.g.cs
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\SMS.g.cs
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\test.g.cs
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\test1.g.cs
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\Tickets.g.cs
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\Tickets1.g.cs
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\TotalReport.g.cs
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\UCTickets.g.cs
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\ViewOrdersPage.g.cs
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\wn.g.cs
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\App.g.cs
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur_Content.g.cs
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur_MarkupCompile.cache
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur_MarkupCompile.lref
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\App.baml
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\DashBoard.baml
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\DishesNotAvailable.baml
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\Dispatch.baml
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\Drivers.baml
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\EditOrder.baml
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\empAddPage.baml
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\Employee.baml
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\LandingPage.baml
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\LastOrderView.baml
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\LoginWindow.baml
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\NewOrder.baml
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\OrdersUpdate.baml
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\BreakFast.baml
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\Combo.baml
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\CustomerDetailsPage.baml
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\FamilyPack.baml
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\Lunch.baml
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\MainWindow.baml
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\MyOrder.baml
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\New Order.baml
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\ProductAailabilityPage.baml
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\ProductsPage.baml
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\Profile.baml
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\Report1.baml
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\ReportsPage.baml
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\RestaurantWindow.baml
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\SearchCustomer.baml
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\SearchResults.baml
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\ShowOrderOnMap.baml
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\SMS.baml
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\test.baml
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\test1.baml
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\Tickets.baml
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\Tickets1.baml
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\TotalReport.baml
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\UCTickets.baml
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\ViewOrdersPage.baml
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\wn.baml
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur.g.resources
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur.Properties.Resources.resources
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur.csproj.GenerateResource.Cache
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur.exe.manifest
+F:\sireesh\ankapur final\Ankapur Project Files\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur.application
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\Anakapur.exe.config
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur.exe
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur.pdb
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\Anakapur.exe.manifest
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\Anakapur.application
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\Anakapur.exe
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\Anakapur.pdb
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\AnkapurBAL.dll
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\AnkapurDAL.dll
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\MahApps.Metro.dll
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\MahApps.Metro.SimpleChildWindow.dll
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\Newtonsoft.Json.dll
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\System.Net.Http.Formatting.dll
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\System.Windows.Interactivity.dll
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\Xceed.Wpf.AvalonDock.dll
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\Xceed.Wpf.Toolkit.dll
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\AnkapurBAL.pdb
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\AnkapurDAL.pdb
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\MahApps.Metro.pdb
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\MahApps.Metro.xml
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\MahApps.Metro.SimpleChildWindow.pdb
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\MahApps.Metro.SimpleChildWindow.xml
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\Newtonsoft.Json.xml
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\System.Net.Http.Formatting.xml
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur.csprojResolveAssemblyReference.cache
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Resources\Icons.baml
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Resources\IconsNonShared.baml
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\DashBoard.g.cs
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\DishesNotAvailable.g.cs
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Dispatch.g.cs
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Drivers.g.cs
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\EditOrder.g.cs
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\empAddPage.g.cs
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Employee.g.cs
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\LandingPage.g.cs
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\LastOrderView.g.cs
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\LoginWindow.g.cs
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\NewOrder.g.cs
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\OrdersUpdate.g.cs
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\BreakFast.g.cs
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\Combo.g.cs
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\CustomerDetailsPage.g.cs
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\FamilyPack.g.cs
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\Lunch.g.cs
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\MainWindow.g.cs
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\MyOrder.g.cs
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\New Order.g.cs
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\ProductAailabilityPage.g.cs
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\ProductsPage.g.cs
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Profile.g.cs
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Report1.g.cs
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\ReportsPage.g.cs
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\RestaurantWindow.g.cs
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\SearchCustomer.g.cs
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\SearchResults.g.cs
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\ShowOrderOnMap.g.cs
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\SMS.g.cs
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\test.g.cs
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\test1.g.cs
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Tickets.g.cs
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Tickets1.g.cs
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\TotalReport.g.cs
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\UCTickets.g.cs
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\ViewOrdersPage.g.cs
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\wn.g.cs
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\App.g.cs
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur_Content.g.cs
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur_MarkupCompile.cache
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur_MarkupCompile.lref
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\App.baml
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\DashBoard.baml
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\DishesNotAvailable.baml
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Dispatch.baml
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Drivers.baml
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\EditOrder.baml
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\empAddPage.baml
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Employee.baml
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\LandingPage.baml
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\LastOrderView.baml
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\LoginWindow.baml
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\NewOrder.baml
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\OrdersUpdate.baml
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\BreakFast.baml
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\Combo.baml
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\CustomerDetailsPage.baml
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\FamilyPack.baml
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\Lunch.baml
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\MainWindow.baml
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\MyOrder.baml
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\New Order.baml
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\ProductAailabilityPage.baml
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\ProductsPage.baml
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Profile.baml
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Report1.baml
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\ReportsPage.baml
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\RestaurantWindow.baml
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\SearchCustomer.baml
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\SearchResults.baml
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\ShowOrderOnMap.baml
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\SMS.baml
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\test.baml
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\test1.baml
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Tickets.baml
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Tickets1.baml
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\TotalReport.baml
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\UCTickets.baml
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\ViewOrdersPage.baml
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\wn.baml
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur.g.resources
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur.Properties.Resources.resources
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur.csproj.GenerateResource.Cache
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur.exe.manifest
+F:\sireesh\ankapur\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur.application
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\Anakapur.exe.config
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur.exe
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur.pdb
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\Anakapur.exe.manifest
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\Anakapur.application
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\Anakapur.exe
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\Anakapur.pdb
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\AnkapurBAL.dll
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\AnkapurDAL.dll
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\MahApps.Metro.dll
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\MahApps.Metro.SimpleChildWindow.dll
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\Newtonsoft.Json.dll
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\System.Net.Http.Formatting.dll
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\System.Windows.Interactivity.dll
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\Xceed.Wpf.AvalonDock.dll
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\Xceed.Wpf.Toolkit.dll
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\AnkapurBAL.pdb
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\AnkapurDAL.pdb
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\MahApps.Metro.pdb
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\MahApps.Metro.xml
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\MahApps.Metro.SimpleChildWindow.pdb
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\MahApps.Metro.SimpleChildWindow.xml
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\Newtonsoft.Json.xml
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\System.Net.Http.Formatting.xml
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur.csprojResolveAssemblyReference.cache
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Resources\Icons.baml
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Resources\IconsNonShared.baml
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\DashBoard.g.cs
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\DishesNotAvailable.g.cs
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Dispatch.g.cs
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Drivers.g.cs
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\EditOrder.g.cs
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\empAddPage.g.cs
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Employee.g.cs
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\LandingPage.g.cs
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\LastOrderView.g.cs
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\LoginWindow.g.cs
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\NewOrder.g.cs
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\OrdersUpdate.g.cs
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\BreakFast.g.cs
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\Combo.g.cs
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\CustomerDetailsPage.g.cs
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\FamilyPack.g.cs
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\Lunch.g.cs
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\MainWindow.g.cs
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\MyOrder.g.cs
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\New Order.g.cs
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\ProductAailabilityPage.g.cs
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\ProductsPage.g.cs
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Profile.g.cs
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Report1.g.cs
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\ReportsPage.g.cs
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\RestaurantWindow.g.cs
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\SearchCustomer.g.cs
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\SearchResults.g.cs
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\ShowOrderOnMap.g.cs
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\SMS.g.cs
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\test.g.cs
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\test1.g.cs
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Tickets.g.cs
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Tickets1.g.cs
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\TotalReport.g.cs
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\UCTickets.g.cs
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\ViewOrdersPage.g.cs
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\wn.g.cs
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\App.g.cs
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur_Content.g.cs
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur_MarkupCompile.cache
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur_MarkupCompile.lref
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\App.baml
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\DashBoard.baml
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\DishesNotAvailable.baml
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Dispatch.baml
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Drivers.baml
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\EditOrder.baml
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\empAddPage.baml
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Employee.baml
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\LandingPage.baml
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\LastOrderView.baml
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\LoginWindow.baml
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\NewOrder.baml
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\OrdersUpdate.baml
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\BreakFast.baml
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\Combo.baml
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\CustomerDetailsPage.baml
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\FamilyPack.baml
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\Lunch.baml
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\MainWindow.baml
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\MyOrder.baml
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\New Order.baml
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\ProductAailabilityPage.baml
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\ProductsPage.baml
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Profile.baml
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Report1.baml
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\ReportsPage.baml
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\RestaurantWindow.baml
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\SearchCustomer.baml
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\SearchResults.baml
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\ShowOrderOnMap.baml
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\SMS.baml
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\test.baml
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\test1.baml
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Tickets.baml
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Tickets1.baml
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\TotalReport.baml
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\UCTickets.baml
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\ViewOrdersPage.baml
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\wn.baml
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur.g.resources
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur.Properties.Resources.resources
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur.csproj.GenerateResource.Cache
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur.exe.manifest
+F:\sireesh\ankapur\old\desktop immediate\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur.application
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\bin\Debug\Anakapur.exe.config
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur.exe
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur.pdb
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\bin\Debug\Anakapur.exe.manifest
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\bin\Debug\Anakapur.application
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\bin\Debug\Anakapur.exe
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\bin\Debug\Anakapur.pdb
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\bin\Debug\AnkapurBAL.dll
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\bin\Debug\AnkapurDAL.dll
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\bin\Debug\MahApps.Metro.dll
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\bin\Debug\MahApps.Metro.SimpleChildWindow.dll
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\bin\Debug\Newtonsoft.Json.dll
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\bin\Debug\System.Net.Http.Formatting.dll
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\bin\Debug\System.Windows.Interactivity.dll
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\bin\Debug\Xceed.Wpf.AvalonDock.dll
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\bin\Debug\Xceed.Wpf.Toolkit.dll
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\bin\Debug\AnkapurBAL.pdb
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\bin\Debug\AnkapurDAL.pdb
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\bin\Debug\MahApps.Metro.pdb
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\bin\Debug\MahApps.Metro.xml
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\bin\Debug\MahApps.Metro.SimpleChildWindow.pdb
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\bin\Debug\MahApps.Metro.SimpleChildWindow.xml
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\bin\Debug\Newtonsoft.Json.xml
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\bin\Debug\System.Net.Http.Formatting.xml
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur.csprojResolveAssemblyReference.cache
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\Resources\Icons.baml
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\Resources\IconsNonShared.baml
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\DashBoard.g.cs
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\DishesNotAvailable.g.cs
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\Dispatch.g.cs
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\Drivers.g.cs
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\EditOrder.g.cs
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\empAddPage.g.cs
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\Employee.g.cs
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\LandingPage.g.cs
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\LastOrderView.g.cs
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\LoginWindow.g.cs
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\NewOrder.g.cs
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\OrdersUpdate.g.cs
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\BreakFast.g.cs
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\Combo.g.cs
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\CustomerDetailsPage.g.cs
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\FamilyPack.g.cs
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\Lunch.g.cs
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\MainWindow.g.cs
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\MyOrder.g.cs
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\New Order.g.cs
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\ProductAailabilityPage.g.cs
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\ProductsPage.g.cs
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\Profile.g.cs
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\Report1.g.cs
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\ReportsPage.g.cs
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\RestaurantWindow.g.cs
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\SearchCustomer.g.cs
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\SearchResults.g.cs
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\ShowOrderOnMap.g.cs
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\SMS.g.cs
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\test.g.cs
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\test1.g.cs
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\Tickets.g.cs
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\Tickets1.g.cs
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\TotalReport.g.cs
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\UCTickets.g.cs
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\ViewOrdersPage.g.cs
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\wn.g.cs
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\App.g.cs
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur_Content.g.cs
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur_MarkupCompile.cache
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur_MarkupCompile.lref
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\App.baml
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\DashBoard.baml
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\DishesNotAvailable.baml
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\Dispatch.baml
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\Drivers.baml
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\EditOrder.baml
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\empAddPage.baml
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\Employee.baml
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\LandingPage.baml
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\LastOrderView.baml
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\LoginWindow.baml
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\NewOrder.baml
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\OrdersUpdate.baml
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\BreakFast.baml
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\Combo.baml
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\CustomerDetailsPage.baml
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\FamilyPack.baml
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\Lunch.baml
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\MainWindow.baml
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\MyOrder.baml
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\New Order.baml
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\ProductAailabilityPage.baml
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\ProductsPage.baml
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\Profile.baml
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\Report1.baml
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\ReportsPage.baml
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\RestaurantWindow.baml
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\SearchCustomer.baml
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\SearchResults.baml
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\ShowOrderOnMap.baml
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\SMS.baml
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\test.baml
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\test1.baml
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\Tickets.baml
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\Tickets1.baml
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\TotalReport.baml
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\UCTickets.baml
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\ViewOrdersPage.baml
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\wn.baml
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur.g.resources
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur.Properties.Resources.resources
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur.csproj.GenerateResource.Cache
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur.exe.manifest
+F:\sireesh\ankapur\old\desktop in hytnagar\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur.application
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\bin\Debug\Anakapur.exe.config
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur.exe
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur.pdb
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\bin\Debug\Anakapur.exe.manifest
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\bin\Debug\Anakapur.application
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\bin\Debug\Anakapur.exe
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\bin\Debug\Anakapur.pdb
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\bin\Debug\AnkapurBAL.dll
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\bin\Debug\AnkapurDAL.dll
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\bin\Debug\MahApps.Metro.dll
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\bin\Debug\MahApps.Metro.SimpleChildWindow.dll
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\bin\Debug\Newtonsoft.Json.dll
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\bin\Debug\System.Net.Http.Formatting.dll
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\bin\Debug\System.Windows.Interactivity.dll
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\bin\Debug\Xceed.Wpf.AvalonDock.dll
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\bin\Debug\Xceed.Wpf.Toolkit.dll
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\bin\Debug\AnkapurBAL.pdb
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\bin\Debug\AnkapurDAL.pdb
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\bin\Debug\MahApps.Metro.pdb
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\bin\Debug\MahApps.Metro.xml
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\bin\Debug\MahApps.Metro.SimpleChildWindow.pdb
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\bin\Debug\MahApps.Metro.SimpleChildWindow.xml
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\bin\Debug\Newtonsoft.Json.xml
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\bin\Debug\System.Net.Http.Formatting.xml
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Resources\Icons.baml
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Resources\IconsNonShared.baml
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\DashBoard.g.cs
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\DishesNotAvailable.g.cs
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Dispatch.g.cs
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Drivers.g.cs
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\EditOrder.g.cs
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\empAddPage.g.cs
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Employee.g.cs
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\LandingPage.g.cs
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\LastOrderView.g.cs
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\LoginWindow.g.cs
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\NewOrder.g.cs
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\OrdersUpdate.g.cs
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\BreakFast.g.cs
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\Combo.g.cs
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\CustomerDetailsPage.g.cs
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\FamilyPack.g.cs
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\Lunch.g.cs
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\MainWindow.g.cs
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\MyOrder.g.cs
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\New Order.g.cs
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\ProductAailabilityPage.g.cs
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\ProductsPage.g.cs
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Profile.g.cs
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Report1.g.cs
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\ReportsPage.g.cs
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\RestaurantWindow.g.cs
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\SearchCustomer.g.cs
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\SearchResults.g.cs
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\ShowOrderOnMap.g.cs
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\SMS.g.cs
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\test.g.cs
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\test1.g.cs
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Tickets.g.cs
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Tickets1.g.cs
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\TotalReport.g.cs
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\UCTickets.g.cs
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\ViewOrdersPage.g.cs
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\wn.g.cs
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\App.g.cs
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur_Content.g.cs
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur_MarkupCompile.cache
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur_MarkupCompile.lref
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\App.baml
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\DashBoard.baml
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\DishesNotAvailable.baml
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Dispatch.baml
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Drivers.baml
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\EditOrder.baml
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\empAddPage.baml
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Employee.baml
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\LandingPage.baml
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\LastOrderView.baml
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\LoginWindow.baml
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\NewOrder.baml
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\OrdersUpdate.baml
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\BreakFast.baml
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\Combo.baml
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\CustomerDetailsPage.baml
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\FamilyPack.baml
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\Lunch.baml
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\MainWindow.baml
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\MyOrder.baml
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\New Order.baml
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\ProductAailabilityPage.baml
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\ProductsPage.baml
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Profile.baml
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Report1.baml
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\ReportsPage.baml
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\RestaurantWindow.baml
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\SearchCustomer.baml
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\SearchResults.baml
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\ShowOrderOnMap.baml
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\SMS.baml
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\test.baml
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\test1.baml
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Tickets.baml
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Tickets1.baml
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\TotalReport.baml
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\UCTickets.baml
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\ViewOrdersPage.baml
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\wn.baml
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur.g.resources
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur.Properties.Resources.resources
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur.csproj.GenerateResource.Cache
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur.exe.manifest
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur.application
+F:\sireesh\ankapur\old\26-03-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur.csprojResolveAssemblyReference.cache
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\bin\Debug\Anakapur.exe.config
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\bin\Debug\Anakapur.exe.manifest
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\bin\Debug\Anakapur.application
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\bin\Debug\Anakapur.exe
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\bin\Debug\Anakapur.pdb
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\bin\Debug\AnkapurBAL.dll
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\bin\Debug\AnkapurDAL.dll
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\bin\Debug\MahApps.Metro.dll
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\bin\Debug\MahApps.Metro.SimpleChildWindow.dll
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\bin\Debug\Newtonsoft.Json.dll
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\bin\Debug\System.Net.Http.Formatting.dll
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\bin\Debug\System.Windows.Interactivity.dll
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\bin\Debug\Xceed.Wpf.AvalonDock.dll
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\bin\Debug\Xceed.Wpf.Toolkit.dll
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\bin\Debug\AnkapurBAL.pdb
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\bin\Debug\AnkapurDAL.pdb
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\bin\Debug\MahApps.Metro.pdb
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\bin\Debug\MahApps.Metro.xml
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\bin\Debug\MahApps.Metro.SimpleChildWindow.pdb
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\bin\Debug\MahApps.Metro.SimpleChildWindow.xml
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\bin\Debug\Newtonsoft.Json.xml
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\bin\Debug\System.Net.Http.Formatting.xml
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur.csprojResolveAssemblyReference.cache
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Resources\Icons.baml
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Resources\IconsNonShared.baml
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\DashBoard.g.cs
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\DishesNotAvailable.g.cs
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Dispatch.g.cs
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Drivers.g.cs
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\EditOrder.g.cs
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\empAddPage.g.cs
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Employee.g.cs
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\LandingPage.g.cs
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\LastOrderView.g.cs
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\LoginWindow.g.cs
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\NewOrder.g.cs
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\OrdersUpdate.g.cs
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\BreakFast.g.cs
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\Combo.g.cs
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\CustomerDetailsPage.g.cs
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\FamilyPack.g.cs
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\Lunch.g.cs
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\MainWindow.g.cs
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\MyOrder.g.cs
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\New Order.g.cs
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\ProductAailabilityPage.g.cs
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\ProductsPage.g.cs
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Profile.g.cs
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Report1.g.cs
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\ReportsPage.g.cs
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\RestaurantWindow.g.cs
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\SearchCustomer.g.cs
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\SearchResults.g.cs
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\ShowOrderOnMap.g.cs
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\SMS.g.cs
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\test.g.cs
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\test1.g.cs
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Tickets.g.cs
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Tickets1.g.cs
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\TotalReport.g.cs
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\UCTickets.g.cs
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\ViewOrdersPage.g.cs
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\wn.g.cs
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\App.g.cs
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur_Content.g.cs
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur_MarkupCompile.cache
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur_MarkupCompile.lref
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\App.baml
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\DashBoard.baml
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\DishesNotAvailable.baml
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Dispatch.baml
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Drivers.baml
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\EditOrder.baml
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\empAddPage.baml
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Employee.baml
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\LandingPage.baml
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\LastOrderView.baml
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\LoginWindow.baml
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\NewOrder.baml
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\OrdersUpdate.baml
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\BreakFast.baml
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\Combo.baml
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\CustomerDetailsPage.baml
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\FamilyPack.baml
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\Lunch.baml
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\MainWindow.baml
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\MyOrder.baml
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Pages\New Order.baml
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\ProductAailabilityPage.baml
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\ProductsPage.baml
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Profile.baml
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Report1.baml
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\ReportsPage.baml
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\RestaurantWindow.baml
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\SearchCustomer.baml
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\SearchResults.baml
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\ShowOrderOnMap.baml
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\SMS.baml
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\test.baml
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\test1.baml
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Tickets.baml
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Tickets1.baml
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\TotalReport.baml
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\UCTickets.baml
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\ViewOrdersPage.baml
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\wn.baml
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur.g.resources
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur.Properties.Resources.resources
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur.csproj.GenerateResource.Cache
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur.exe.manifest
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur.application
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur.exe
+F:\sireesh\ankapur\old\06-04-2018\Anakapur Desktop Application\Anakapur\obj\Debug\Anakapur.pdb

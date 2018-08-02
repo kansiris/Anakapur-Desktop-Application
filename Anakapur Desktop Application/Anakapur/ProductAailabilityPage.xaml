@@ -1,0 +1,102 @@
+﻿<Page x:Class="Anakapur.ProductAailabilityPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+         xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Anakapur"
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+      Title="ProductAailabilityPage">
+    <Page.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/Resources/icons.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Page.Resources>
+    <Grid>
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Center" Margin="7">
+            <StackPanel Name="stkRadio"  HorizontalAlignment="Center" Orientation="Horizontal"/>
+            <Separator>
+            </Separator>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                
+                <StackPanel Orientation="Horizontal">
+                    <Button Name="btnsearch"  Click="btnsearch_Click"   Style="{StaticResource AccentedSquareButtonStyle}"   Width="150" Height="35" Margin="5,5,5,5"  >
+                        <StackPanel Orientation="Horizontal">
+                            <Rectangle Width="30"
+                   Height="25"
+                   Fill="{Binding RelativeSource={RelativeSource AncestorType=Button}, Path=Foreground}">
+                                <Rectangle.OpacityMask>
+                                    <VisualBrush Stretch="Fill" Visual="{StaticResource appbar_page_search}" />
+                                </Rectangle.OpacityMask>
+                            </Rectangle>
+                            <TextBlock Margin="4 0 0 0"
+                   VerticalAlignment="Center"
+                   Text="Search" />
+                        </StackPanel>
+                    </Button>
+                    <!--<Button Name="btnsearch" Content="Search" FontSize="20"  FontWeight="DemiBold" Click="btnsearch_Click" Style="{StaticResource AccentedSquareButtonStyle}" Margin="10,10,10,10"/>-->
+                </StackPanel>
+                <StackPanel>
+                    <Label Name="lblheadr" Content="Product Availability" FontSize="25" FontWeight="DemiBold" Margin="10,10,10,10" />
+                </StackPanel>
+            </StackPanel>
+            <StackPanel />
+            <StackPanel Orientation="Vertical">
+                <DataGrid IsReadOnly="False" CanUserAddRows="false" AutoGenerateColumns="False" BorderThickness="1" Padding="2" Width="auto" FontSize="15" 
+          Name="GridProducts"   Height="300"  HorizontalScrollBarVisibility="Visible" VerticalScrollBarVisibility="Visible" Style="{StaticResource AzureDataGrid}">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="Product ID" Binding="{Binding ProductID}" Width="auto"    />
+                        <DataGridTextColumn Header="Product Name" Binding="{Binding ProductName}"  />
+                        <DataGridTextColumn Header="Short Description" Binding="{Binding ShortDescription}" />
+                        <DataGridTextColumn Header="Price" Binding="{Binding Price,StringFormat= 0#}" FontWeight="DemiBold"/>
+                        <DataGridCheckBoxColumn Header="Available" Binding="{Binding Available}" />
+                        <DataGridTextColumn Header="Remarks" Binding="{Binding Remarks}" />
+                        <!--<DataGridTextColumn Header="Stock in hand" Binding="{Binding SIH}" />-->
+                    </DataGrid.Columns>
+                </DataGrid>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+                <StackPanel>
+                    <Button   Click="Edit_Click"  Style="{StaticResource AccentedSquareButtonStyle}"   Width="150" Name="Edit" Margin="5,5,5,5"  >
+                        <StackPanel Orientation="Horizontal">
+                            <Rectangle Width="35"
+                   Height="25"
+                   Fill="{Binding RelativeSource={RelativeSource AncestorType=Button}, Path=Foreground}">
+                                <Rectangle.OpacityMask>
+                                    <VisualBrush Stretch="Fill" Visual="{StaticResource appbar_clipboard_edit}" />
+                                </Rectangle.OpacityMask>
+                            </Rectangle>
+                            <TextBlock Margin="4 0 0 0"
+                   VerticalAlignment="Center"
+                   Text="Edit" />
+                        </StackPanel>
+                    </Button>
+                    <!--<Button Content="Update" Height="40" FontSize="20" FontWeight="DemiBold" Style="{StaticResource AccentedSquareButtonStyle}"  Name="Edit"  Width="89" Margin="10,10,10,10"  Click="Edit_Click"/>-->
+                </StackPanel>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+    <!--<Grid Height="300" VerticalAlignment="Top">
+        
+        <StackPanel Name="stkRadio" Orientation="Horizontal" HorizontalAlignment="Center" Margin="10,10,10,10" >
+        </StackPanel>
+        <Label Name="lblheadr" Content="Product Availability" FontSize="25" FontWeight="DemiBold" />
+        <DataGrid IsReadOnly="False" AutoGenerateColumns="False" BorderThickness="1" Padding="2" Width="auto" FontSize="15" 
+          Name="GridProducts"   Height="600"  HorizontalScrollBarVisibility="Visible" VerticalScrollBarVisibility="Visible" Style="{StaticResource AzureDataGrid}">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Product ID" Binding="{Binding ProductID}" Width="auto"    />
+                <DataGridTextColumn Header="ProductName" Binding="{Binding ProductName}"  />
+                <DataGridTextColumn Header="ShortDescription" Binding="{Binding ShortDescription}" />
+                <DataGridTextColumn Header="Price" Binding="{Binding Price}" FontWeight="DemiBold" />
+                <DataGridCheckBoxColumn Header="Available" Binding="{Binding Available}" />
+                <DataGridTextColumn Header="Remarks" Binding="{Binding Remarks}" />
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button Content="Update" Height="40" FontSize="20" FontWeight="DemiBold" Style="{StaticResource AccentedSquareButtonStyle}"  Name="Edit"  Width="89"  Click="Edit_Click"/>
+        <Button Content="Done" Height="40" FontSize="20" FontWeight="DemiBold" Style="{StaticResource AccentedSquareButtonStyle}" Click="btndone_Click"  HorizontalAlignment="Left" Name="btndone" VerticalAlignment="Top" Width="89" Margin="571,361,-360,-101"  />
+        <Button x:Name="btnsearch"   FontSize="15" Content="Search" Style="{StaticResource AccentedSquareButtonStyle}" FontWeight="DemiBold" HorizontalAlignment="Left" Margin="882,0,-672,0" VerticalAlignment="Top" Width="90" Click="btnsearch_Click" Height="32"/>
+    </Grid>-->
+</Page>

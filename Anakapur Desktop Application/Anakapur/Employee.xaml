@@ -1,0 +1,184 @@
+﻿<Controls:MetroWindow xmlns:my="http://schemas.microsoft.com/winfx/2006/xaml/presentation/ribbon"  x:Class="Anakapur.Employee"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Anakapur"
+          xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+       
+        mc:Ignorable="d"
+        Title="Ankapur Main Window" Height="auto" Width="auto" WindowState="Maximized">
+    
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/Resources/icons.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Window.Resources>
+    <Controls:MetroWindow.RightWindowCommands>
+        <Controls:WindowCommands>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Label x:Name="lblempname" Content="" />
+            </StackPanel>
+            <Button   Click="Button_Click"  >
+                <StackPanel Orientation="Horizontal">
+                    <Rectangle Width="20"
+                   Height="20"
+                   Fill="{Binding RelativeSource={RelativeSource AncestorType=Button}, Path=Foreground}">
+                        <Rectangle.OpacityMask>
+                            <VisualBrush Stretch="Fill" Visual="{StaticResource appbar_window_closed}" />
+                        </Rectangle.OpacityMask>
+                    </Rectangle>
+                    <TextBlock Margin="4 0 0 0"
+                   VerticalAlignment="Center"
+                   Text="Logout" />
+                </StackPanel>
+            </Button>
+            <Button  Click="RibbonMenuItem_Click_6" >
+                <StackPanel Orientation="Horizontal">
+                    <Rectangle Width="20"
+                   Height="20"
+                   Fill="{Binding RelativeSource={RelativeSource AncestorType=Button}, Path=Foreground}">
+                        <Rectangle.OpacityMask>
+                            <VisualBrush Stretch="Fill" Visual="{StaticResource appbar_people_profile}" />
+                        </Rectangle.OpacityMask>
+                    </Rectangle>
+                    <TextBlock Margin="4 0 0 0"
+                   VerticalAlignment="Center"
+                   Text="My Profile" />
+                </StackPanel>
+            </Button>
+        </Controls:WindowCommands>
+    </Controls:MetroWindow.RightWindowCommands>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Expander Name="expMenu" Header="Collapse"  Collapsed="expMenu_Collapsed" Expanded="expMenu_Expanded">
+            <Ribbon x:Name="RibbonWin"  SelectedIndex="0" VerticalAlignment="Top"   >
+           
+            <RibbonTab Header="Home" KeyTip="H" HorizontalAlignment="Left" Width="auto">
+                    <RibbonGroup x:Name="rbnAdmin">
+                        <RibbonMenuButton LargeImageSource="Images\admin1.jpg" Height="auto" Width="auto" Label="Admin" KeyTip="V">
+                            <RibbonMenuItem  Header="Employees" KeyTip="T" Click="RibbonMenuItem_Click_1"/>
+                            <RibbonMenuItem  Header="Products" KeyTip="S" Click="RibbonMenuItem_Click_2"/>
+                            <RibbonMenuItem  Header="Edit_Orders" KeyTip="S" Click="RibbonMenuItem_Click_4"/>
+                            <!--<RibbonMenuItem  Header="Product Availability" KeyTip="S" Click="RibbonMenuItem_Click_13"/>
+                            <RibbonMenuItem  Header="Reports" KeyTip="S" Click="RibbonMenuItem_Click_5"/>-->
+                            <!--<RibbonMenuItem  Header="Restaurants" KeyTip="S" Click="RibbonMenuItem_Click_3"/>-->
+                            <!--<RibbonMenuItem  Header="ProductAvailability" KeyTip="S" Click="RibbonMenuItem_Click_4"/>-->
+                        </RibbonMenuButton>
+                        <!--<RibbonButton SmallImageSource="Images\save.png" Label="Save" KeyTip="X" />
+                    <RibbonButton SmallImageSource="Images\add.png" Label="Add" KeyTip="C" />-->
+                    </RibbonGroup>
+                    <RibbonGroup x:Name="rbncustomer">
+                        <RibbonButton LargeImageSource="Images\customer1.jpg" Height="auto" Width="auto" Label="Customer" Click="RibbonMenuItem_Click_7" KeyTip="V">
+                        <!--<RibbonMenuItem  Header="Customer Search" Click="RibbonMenuItem_Click_7" KeyTip="T"/>-->
+                        <!--<RibbonMenuItem ImageSource="Images\paste.png" Header="Paste Special..." KeyTip="S"/>-->
+                    </RibbonButton>
+                    <!--<RibbonButton SmallImageSource="Images\save.png" Label="Save" KeyTip="X" />
+                    <RibbonButton SmallImageSource="Images\add.png" Label="Add" KeyTip="C" />-->
+                </RibbonGroup>
+                <RibbonGroup x:Name="rbnNewOrder">
+                        <RibbonButton LargeImageSource="Images\neworder1.jpg" Height="auto" Width="auto" Label="New_Order" Click="RibbonMenuItem_Click" KeyTip="V">
+                        <!--<RibbonMenuItem  Header="Orders Page" KeyTip="T" Click="RibbonMenuItem_Click"/>-->
+                        <!--<RibbonMenuItem ImageSource="Images\paste.png" Header="Paste Special..." KeyTip="S"/>-->
+                    </RibbonButton>
+                   
+                </RibbonGroup>
+                
+                <RibbonGroup x:Name="rbntickets">
+                        <RibbonButton LargeImageSource="Images\tickets1.jpg" Height="auto" Width="auto" Label="Tickets" Click="RibbonMenuItem_Click_9" KeyTip="V">
+                        <!--<RibbonMenuItem  Header="View Tickets" KeyTip="T" Click="RibbonMenuItem_Click_9"/>-->
+                        <!--<RibbonMenuItem ImageSource="Images\paste.png" Header="Paste Special..." KeyTip="S"/>-->
+                    </RibbonButton>
+                    <!--<RibbonButton SmallImageSource="Images\save.png" Label="Save" KeyTip="X" />
+                    <RibbonButton SmallImageSource="Images\add.png" Label="Add" KeyTip="C" />-->
+                </RibbonGroup>
+               
+                <RibbonGroup x:Name="rbnvieworder">
+                        <RibbonButton LargeImageSource="Images\vieworder1.jpg" Height="auto" Width="auto" Click="RibbonMenuItem_Click_11" Label="View_Order" KeyTip="V">
+                        <!--<RibbonMenuItem  Header="View order" KeyTip="T" Click="RibbonMenuItem_Click_11"/>-->
+                        <!--<RibbonMenuItem  Header="Products" KeyTip="S" Click="RibbonMenuItem_Click_2"/>
+                        <RibbonMenuItem  Header="Restaurants" KeyTip="S" Click="RibbonMenuItem_Click_3"/>-->
+                        <!--<RibbonMenuItem  Header="ProductAvailability" KeyTip="S" Click="RibbonMenuItem_Click_4"/>-->
+                    </RibbonButton>
+                    <!--<RibbonButton SmallImageSource="Images\save.png" Label="Save" KeyTip="X" />
+                    <RibbonButton SmallImageSource="Images\add.png" Label="Add" KeyTip="C" />-->
+                </RibbonGroup>
+                  <!--  <RibbonGroup x:Name="rbnDelivery">
+                        <RibbonButton LargeImageSource="Images\orderdispatch1.jpg" Height="auto" Width="auto" Click="RibbonMenuItem_Click_10" Label="Dispatch_Orders" KeyTip="V">
+                            <RibbonMenuItem  Header="Dispatch" KeyTip="T" Click="RibbonMenuItem_Click_10"/>
+                            <RibbonMenuItem ImageSource="Images\paste.png" Header="Paste Special..." KeyTip="S"/>
+                        </RibbonButton>
+                        <RibbonButton SmallImageSource="Images\save.png" Label="Save" KeyTip="X" />
+                    <RibbonButton SmallImageSource="Images\add.png" Label="Add" KeyTip="C" />
+                    </RibbonGroup>-->
+                    <RibbonGroup x:Name="rbnOrderUpdate">
+                        <RibbonButton LargeImageSource="Images\orderupdate1.jpg" Height="auto" Width="auto" Click="RibbonMenuItem_Click_8" Label="Order_Update" KeyTip="V">
+                        <!--<RibbonMenuItem  Header="Order Status" KeyTip="T" Click="RibbonMenuItem_Click_8"/>-->
+                        <!--<RibbonMenuItem ImageSource="Images\paste.png" Header="Paste Special..." KeyTip="S"/>-->
+                    </RibbonButton>
+                    <!--<RibbonButton SmallImageSource="Images\save.png" Label="Save" KeyTip="X" />
+                    <RibbonButton SmallImageSource="Images\add.png" Label="Add" KeyTip="C" />-->
+                </RibbonGroup>
+                    <RibbonGroup x:Name="rbnproductavail">
+                        <RibbonButton LargeImageSource="Images\productavailablity1.jpg" Height="auto" Width="auto" Click="RibbonMenuItem_Click_13" Label="Product_Availability" KeyTip="V">
+                            <!--<RibbonMenuItem  Header="Order Status" KeyTip="T" Click="RibbonMenuItem_Click_8"/>-->
+                            <!--<RibbonMenuItem ImageSource="Images\paste.png" Header="Paste Special..." KeyTip="S"/>-->
+                        </RibbonButton>
+                        <!--<RibbonButton SmallImageSource="Images\save.png" Label="Save" KeyTip="X" />
+                    <RibbonButton SmallImageSource="Images\add.png" Label="Add" KeyTip="C" />-->
+                    </RibbonGroup>
+                    <RibbonGroup x:Name="rbnreports">
+                        <RibbonButton LargeImageSource="Images\Reports.jpg" Height="auto" Width="auto" Click="RibbonMenuItem_Click_5" Label="Reports" KeyTip="V">
+                            <!--<RibbonMenuItem  Header="Order Status" KeyTip="T" Click="RibbonMenuItem_Click_8"/>-->
+                            <!--<RibbonMenuItem ImageSource="Images\paste.png" Header="Paste Special..." KeyTip="S"/>-->
+                        </RibbonButton>
+                        <!--<RibbonButton SmallImageSource="Images\save.png" Label="Save" KeyTip="X" />
+                    <RibbonButton SmallImageSource="Images\add.png" Label="Add" KeyTip="C" />-->
+                    </RibbonGroup>
+                    <RibbonGroup x:Name="rbnankreport">
+                        <RibbonButton LargeImageSource="Images\Reports.jpg" Height="auto" Width="auto" Click="RibbonButton_Click"  Label="Revenue_Report" KeyTip="V">
+                            <!--<RibbonMenuItem  Header="Order Status" KeyTip="T" Click="RibbonMenuItem_Click_8"/>-->
+                            <!--<RibbonMenuItem ImageSource="Images\paste.png" Header="Paste Special..." KeyTip="S"/>-->
+                        </RibbonButton>
+                        <!--<RibbonButton SmallImageSource="Images\save.png" Label="Save" KeyTip="X" />
+                    <RibbonButton SmallImageSource="Images\add.png" Label="Add" KeyTip="C" />-->
+                    </RibbonGroup>
+                    <!--<RibbonGroup x:Name="rbnorderavail">
+                    <RibbonMenuButton LargeImageSource="Images\Status.png" Label="ProductAvailability" KeyTip="V">
+                        <RibbonMenuItem  Header="Available Products" KeyTip="T" Click="RibbonMenuItem_Click_5"/>
+                        --><!--<RibbonMenuItem ImageSource="Images\paste.png" Header="Paste Special..." KeyTip="S"/>--><!--
+                    </RibbonMenuButton>
+                    --><!--<RibbonButton SmallImageSource="Images\save.png" Label="Save" KeyTip="X" />
+                    <RibbonButton SmallImageSource="Images\add.png" Label="Add" KeyTip="C" />--><!--
+                </RibbonGroup>-->
+                <!--<RibbonGroup x:Name="rbnprofile">
+                    <RibbonMenuButton LargeImageSource="Images\employee.png" Label="EmployeeProfile" KeyTip="V">
+                        <RibbonMenuItem  Header="Employee Profile" KeyTip="T" Click="RibbonMenuItem_Click_6"/>
+                        --><!--<RibbonMenuItem ImageSource="Images\paste.png" Header="Paste Special..." KeyTip="S"/>--><!--
+                    </RibbonMenuButton>
+                    --><!--<RibbonButton SmallImageSource="Images\save.png" Label="Save" KeyTip="X" />
+                    <RibbonButton SmallImageSource="Images\add.png" Label="Add" KeyTip="C" />--><!--
+                </RibbonGroup >-->
+                  </RibbonTab>
+            
+        </Ribbon>
+        </Expander>
+        <!--<ScrollViewer >-->
+        <ScrollViewer  Grid.Row="1">
+            <Frame 
+    ScrollViewer.VerticalScrollBarVisibility="Visible" 
+    ScrollViewer.CanContentScroll="True"  
+    Content="" 
+    Name="frmMain" 
+    NavigationUIVisibility="Hidden" 
+    />
+        </ScrollViewer>
+        <StackPanel Name="stkMain"></StackPanel>
+    </Grid>
+
+    </Controls:MetroWindow>

@@ -1,0 +1,54 @@
+﻿<Window x:Class="Anakapur.DishesNotAvailable"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        xmlns:local="clr-namespace:Anakapur"
+        mc:Ignorable="d"
+        Title="DishesNotAvailable" Height="500" Width="500" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <StackPanel  DockPanel.Dock="Right"  Width="400" Orientation="Vertical" Margin="0,2,0,0" HorizontalAlignment="Center" >
+                <Label Content="Dishes Not Available" FontSize="14" ></Label>
+                <Border BorderBrush="Gray" BorderThickness="1">
+                <ListView Margin="10,10,10,10" Name="lvMenu" ScrollViewer.VerticalScrollBarVisibility="Auto" Height="300" FontSize="12" PreviewMouseLeftButtonUp="lvMenu_PreviewMouseLeftButtonUp">
+                    <ListView.View>
+                        <GridView>
+                            <!--<GridViewColumn Header="Rest Code" Width="80" DisplayMemberBinding="{Binding RestCode}" />-->
+                            <GridViewColumn Header="Dish Id" Width="130" DisplayMemberBinding="{Binding ProductID}" />
+                            <GridViewColumn Header="Dish" Width="170" DisplayMemberBinding="{Binding ProductName}" />
+                                <!--<GridViewColumn Header="SIH" Width="100" DisplayMemberBinding="{Binding SIH}"/>-->
+
+                            </GridView>
+                    </ListView.View>
+                    <ListView.GroupStyle>
+                        <GroupStyle>
+                            <GroupStyle.ContainerStyle>
+                                <Style TargetType="{x:Type GroupItem}">
+                                    <Setter Property="Template">
+                                        <Setter.Value>
+                                            <ControlTemplate>
+                                                <Expander Header="{Binding RestCode}" IsExpanded="True" >
+                                                    <ItemsPresenter />
+                                                </Expander>
+                                            </ControlTemplate>
+                                        </Setter.Value>
+                                    </Setter>
+                                </Style>
+                            </GroupStyle.ContainerStyle>
+                            
+        <GroupStyle.HeaderTemplate>
+                                <DataTemplate>
+                                    <TextBlock FontWeight="Bold" FontSize="14" Text="{Binding RestCode}"/>
+                                </DataTemplate>
+                            </GroupStyle.HeaderTemplate>
+        
+                        </GroupStyle>
+                    </ListView.GroupStyle>
+                </ListView>
+                </Border>
+            </StackPanel>
+
+
+    </Grid>
+</Window>

@@ -1,0 +1,102 @@
+﻿<Window x:Class="Anakapur.test"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Anakapur"
+        mc:Ignorable="d"
+        Title="test" Height="500" Width="500">
+    <Grid>
+        <StackPanel Margin="20,20,20,20" Orientation="Vertical">
+            <StackPanel Margin="5,5,5,5" Orientation="Horizontal">
+                <Button Click="Button_Click" Content="Order Id : " Margin="0,0,0,0" Style="{StaticResource AccentedSquareButtonStyle}" ></Button>
+                <Label Name="lblOrderID" Content="Order Id" Margin="0,0,0,0" FontWeight="Bold"></Label >
+
+                <Label Content="Order Date" Margin="0,0,0,0"></Label>
+                <Label Name="lblOrderDate" Content="Order Id" Margin="0,0,0,0" FontWeight="Bold"></Label >
+
+                <Label Content="Order Time" Margin="0,0,0,0"></Label>
+                <Label Name="lblOrderTime" Content="Order Id" Margin="0,0,0,0" FontWeight="Bold"></Label >
+
+            </StackPanel>
+            <Separator></Separator>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Customer Name : " Margin="0,0,15,0"></Label>
+                <Label Name="lblCustName" Content="Name" Margin="0,0,0,0" FontWeight="Bold"></Label>
+            </StackPanel>
+            <StackPanel Margin="5,5,5,5" Orientation="Horizontal">
+                <Label Content="Phone : " Margin="0,0,0,0"></Label>
+                <Label Name="lblCustPhone" Content="Order Id" Margin="0,0,0,0" FontWeight="Bold"></Label >
+                <Label Content="Address  : " Margin="0,0,0,0"></Label>
+                <Label Name="lblAddress" Content="Order Id" Margin="0,0,0,0" FontWeight="Bold"></Label>
+            </StackPanel>
+            <Separator></Separator>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Total Items : " Margin="0,0,15,0"></Label>
+                <Label Name="lblItems" Content="Total Items : " Margin="0,0,15,0" FontWeight="Bold"></Label>
+                <Label Content="Grand Total Rs: " Margin="0,0,15,0"></Label>
+                <Label Name="lblGrandTotal" Content="Grand total : " Margin="0,0,15,0" FontWeight="Bold"></Label>
+                <Label Name="lblStatus" Content="Order Status : " Margin="0,0,15,0" FontWeight="Bold"></Label>
+            </StackPanel>
+            <ListView Margin="10" Name="lvOrders" Height="297" BorderThickness="1" Padding="2" ScrollViewer.VerticalScrollBarVisibility="Visible" >
+                <ListView.View>
+                    <GridView>
+                        <!--ProductName Price Quantity    Total-->
+                        <GridViewColumn Header="Code">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <StackPanel Margin="6,2,6,2">
+                                        <Label Content="{Binding ProductID}"/>
+                                    </StackPanel>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+                        <GridViewColumn Header="Dish" Width="150">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <StackPanel Margin="6,2,6,2">
+                                        <Label Content="{Binding ProductName}" />
+                                    </StackPanel>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+                        <GridViewColumn Header="Price">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <StackPanel Margin="6,2,6,2">
+                                        <Label Content="{Binding Price}"/>
+                                    </StackPanel>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+                        <GridViewColumn Header="Qty">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <StackPanel Margin="6,2,6,2">
+                                        <Label Content="{Binding Quantity}"/>
+                                    </StackPanel>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+                        <GridViewColumn Header="Total">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <StackPanel Margin="6,2,6,2">
+                                        <Label Content="{Binding Total}"/>
+                                    </StackPanel>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+
+                    </GridView>
+                </ListView.View>
+            </ListView>
+
+
+
+        </StackPanel>
+    </Grid>
+</Window>

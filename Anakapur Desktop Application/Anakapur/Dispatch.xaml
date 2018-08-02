@@ -1,0 +1,215 @@
+﻿<Page x:Class="Anakapur.Dispatch"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Anakapur"
+      mc:Ignorable="d" 
+      d:DesignHeight="600" d:DesignWidth="800"
+      Title="Dispatch">
+
+    <Grid HorizontalAlignment="Center">
+        <DockPanel LastChildFill="True" Margin="10,10,10,10" Width="auto">
+            <StackPanel DockPanel.Dock="Top" Name="stkTop" HorizontalAlignment="Center" Orientation="Horizontal">
+                <StackPanel Orientation="Vertical">
+                <Label Content="Driver Dispatch list" HorizontalAlignment="Center" FontSize="20" FontWeight="ExtraBold"></Label>
+                    <Separator Margin="10,10,10,10"></Separator>
+                </StackPanel>
+            </StackPanel>
+            <StackPanel DockPanel.Dock="Right" Name="stkRight" HorizontalAlignment="Left" Orientation="Horizontal" Width="auto">
+                <StackPanel Orientation="Vertical">
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                        <Label Content="Riders" FontSize="15" FontWeight="Bold" HorizontalAlignment="Center" >
+                       
+                    </Label>
+                        <Image Source="/Images/db.png" Height="30" Margin="5,5,5,5" />
+                    </StackPanel>
+                            <Grid>
+
+                        <ListView Margin="10" Name="lvInDrivers" Height="297" FontSize="15" PreviewMouseLeftButtonUp="lvInDrivers_PreviewMouseLeftButtonUp" ScrollViewer.VerticalScrollBarVisibility="Auto" BorderThickness="1" Padding="2"  >
+                            <ListView.View>
+                                <GridView >
+                                    <!--EmpCode,First_Name,Last_Name,orders as NumberOfOrders-->
+                                    <GridViewColumn Header="Select">
+                                        <GridViewColumn.CellTemplate>
+                                            <DataTemplate>
+                                                <StackPanel Margin="6,2,6,2">
+                                                    <CheckBox Name="chkdispatch" Content="{Binding EmpCode}" Checked="CheckBox_Checked"></CheckBox>
+                                                    <!--<Label Content="{Binding First_Name}"/>-->
+                                                </StackPanel>
+                                            </DataTemplate>
+                                        </GridViewColumn.CellTemplate>
+                                    </GridViewColumn>
+                                    <GridViewColumn Header="First Name">
+                                        <GridViewColumn.CellTemplate>
+                                            <DataTemplate>
+                                                <StackPanel Margin="6,2,6,2">
+                                                    <Label Content="{Binding First_Name}"/>
+                                                </StackPanel>
+                                            </DataTemplate>
+                                        </GridViewColumn.CellTemplate>
+                                    </GridViewColumn>
+                                    <GridViewColumn Header="Last Name" Width="100">
+                                        <GridViewColumn.CellTemplate>
+                                            <DataTemplate>
+                                                <StackPanel Margin="6,2,6,2">
+                                                    <Label Content="{Binding Last_Name}" />
+                                                </StackPanel>
+                                            </DataTemplate>
+                                        </GridViewColumn.CellTemplate>
+                                    </GridViewColumn>
+                                    <GridViewColumn Header="Orders in hand">
+                                        <GridViewColumn.CellTemplate>
+                                            <DataTemplate>
+                                                <StackPanel Margin="6,2,6,2">
+                                                   <!--<Label Content="{Binding NumberOfOrders}"/>-->
+                                                    <Button Content="{Binding NumberOfOrders}" Click="Button_Click" Tag="{Binding EmpCode}"  Style="{StaticResource {x:Static ToolBar.ButtonStyleKey}}"></Button>
+                                                </StackPanel>
+                                            </DataTemplate>
+                                        </GridViewColumn.CellTemplate>
+                                    </GridViewColumn>
+                                   
+                                    <!--<GridViewColumn Header="Remove">
+                                <GridViewColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <StackPanel Margin="6,2,6,2">
+                                            <Button Content="Remove" Name="btnDel" Click="Button_Click_1"/>
+                                        </StackPanel>
+                                    </DataTemplate>
+                                </GridViewColumn.CellTemplate>
+                            </GridViewColumn>-->
+                                </GridView>
+                            </ListView.View>
+                        </ListView>
+
+                    </Grid>
+                </StackPanel>
+               
+                 
+            </StackPanel>
+            <StackPanel DockPanel.Dock="Bottom" Name="stkBottom" HorizontalAlignment="Center" Orientation="Horizontal" Height="50" Margin="10,0" RenderTransformOrigin="0.5,0.5">
+                <StackPanel.RenderTransform>
+                    <TransformGroup>
+                         
+                    </TransformGroup>
+                </StackPanel.RenderTransform>
+                <!--<Button Name="btnView" Content="View" Margin="0,0,20,0" Style="{StaticResource AccentedSquareButtonStyle}" FontSize="20" FontWeight="Black" />-->
+                <Button Name="btnRefresh" Content="Refresh" Style="{StaticResource AccentedSquareButtonStyle}" Margin="0,0,20,0" FontSize="20" FontWeight="Black" Click="btnRefresh_Click" />
+                <!--<Button Name="btndispatch" Content="Dispatch" Margin="0,0,20,0" FontSize="20" FontWeight="Black"/>-->
+                <Button Name="btnMap" Content="Map" Style="{StaticResource AccentedSquareButtonStyle}" Margin="0,0,20,0" FontSize="20" FontWeight="Black" Click="btnMap_Click" />
+                <!--<Button Name="btnDone" Content="Done" Style="{StaticResource AccentedSquareButtonStyle}" Margin="0,0,20,0" FontSize="20" FontWeight="Black" />-->
+            </StackPanel>
+            <Separator></Separator>
+            <StackPanel Orientation="Vertical">
+                <Label  Content="Orders" FontWeight="Bold" FontSize="15"  Name="lblOrderheader" HorizontalAlignment="Center"></Label>
+                <StackPanel Name="stkGrd" Orientation="Vertical"></StackPanel>
+            <ScrollViewer  VerticalScrollBarVisibility="Auto" Width="auto">
+              
+                      <Grid   Width="auto" HorizontalAlignment="Center" Margin="10,10,10,10">
+
+                        <DataGrid Name="dgOrders" IsReadOnly="True" CanUserAddRows="false" AutoGenerateColumns="False" Height="300" Width="auto" FontSize="15" SelectedItem="{Binding OrderId}" ScrollViewer.VerticalScrollBarVisibility="Auto" BorderThickness="1" Padding="2" >
+                             <!--MouseDoubleClick="dgOrders_MouseDoubleClick"-->
+                            <DataGrid.Columns>
+                                <DataGridTemplateColumn Header="Order Id">
+                                    <DataGridTemplateColumn.CellTemplate >
+                                        <DataTemplate >
+                                            
+                                            <Button  Click="DG_Hyperlink_Click" Content="{Binding OrderId}"  Style="{StaticResource {x:Static ToolBar.ButtonStyleKey}}" Tag="{Binding OrderId}"></Button>
+                                        </DataTemplate>
+                                    </DataGridTemplateColumn.CellTemplate>
+                                </DataGridTemplateColumn>
+                                
+                                <DataGridTextColumn Header="Order Time" Binding="{Binding OTime}" FontSize="15"  />
+                                <DataGridTextColumn Header="First Name" Binding="{Binding CustomerFName}" FontSize="15"  />
+                                <DataGridTextColumn Header="Last Name" Binding="{Binding CustomerLName}" FontSize="15"  />
+                                <DataGridTextColumn Header="Order Status" Binding="{Binding StatusDescription}" FontSize="15"  />
+
+                                <DataGridTextColumn Header="Delivery Address" Binding="{Binding Delivery_Addresss}" FontSize="15"  />
+                            </DataGrid.Columns>
+                            <!--<DataGrid.RowDetailsTemplate>
+                                <DataTemplate>
+                                    --><!--<DockPanel Background="GhostWhite" Name="dpDetails">--><!--                                      
+                                        <Grid Margin="0,10">
+                                            <Grid.ColumnDefinitions>
+                                                <ColumnDefinition Width="Auto" />
+                                                <ColumnDefinition Width="*" />
+                                            </Grid.ColumnDefinitions>
+                                            <Grid.RowDefinitions>
+                                                <RowDefinition Height="Auto" />
+                                                <RowDefinition Height="Auto" />
+                                                <RowDefinition Height="Auto" />
+                                            </Grid.RowDefinitions>
+                                           
+                                            <DataGrid   Name="dgOrderDetails" AutoGenerateColumns="False" Width="auto" FontSize="15" HorizontalAlignment="Center">
+                                                <DataGrid.Columns>
+                                                <DataGridTextColumn Header="Item Name" Binding="{Binding ProductName}" FontSize="15"  />
+                                                <DataGridTextColumn Header="Quantity" Binding="{Binding Quantity}" FontSize="15"  />
+                                                <DataGridTextColumn Header="Price" Binding="{Binding Price}" FontSize="15"  />
+                                                <DataGridTextColumn Header="Total Price" Binding="{Binding Total}" FontSize="15"  />
+                                            </DataGrid.Columns>
+                                            </DataGrid>
+
+                                        </Grid>
+                                    --><!--</DockPanel>--><!--
+                                </DataTemplate>
+                            </DataGrid.RowDetailsTemplate>-->
+                        </DataGrid>
+                    </Grid>
+                    
+                    <!--<ListView Name="lstOrdersGrid"  Margin="20,20,20,20" MouseDoubleClick="lstOrdersGrid_MouseDoubleClick">
+                        <ListView.View>
+                            <GridView x:Name="OrdersGrid">
+                                <GridViewColumn Width="100">
+                                    <GridViewColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <Expander>
+                                                <Expander.HeaderTemplate>
+                                                    <DataTemplate>
+                                                    </DataTemplate>
+                                                </Expander.HeaderTemplate>
+                                                <Expander.ContentTemplate>                                                    
+                                                    <DataTemplate>
+                                                        <StackPanel Margin="6,2,6,2">
+                                                            <Label Content="CustomerFName" />
+                                                        </StackPanel>
+                                                    </DataTemplate>
+                                                </Expander.ContentTemplate>
+                                            </Expander>
+                                        </DataTemplate>
+                                    </GridViewColumn.CellTemplate>
+                                </GridViewColumn>
+                                <GridViewColumn Header="Order Id" Width="100">
+                                    <GridViewColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <StackPanel Margin="6,2,6,2">
+                                                <Label Content="{Binding OrderId}" />
+                                            </StackPanel>
+                                        </DataTemplate>
+                                    </GridViewColumn.CellTemplate>
+                                </GridViewColumn>
+                                <GridViewColumn Header="Customer Name" Width="100">
+                                    <GridViewColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <StackPanel Margin="6,2,6,2">
+                                                <Label Content="{Binding CustomerFName}" />
+                                            </StackPanel>
+                                        </DataTemplate>
+                                    </GridViewColumn.CellTemplate>
+                                </GridViewColumn>                                
+                                <GridViewColumn Header="Delivery Address" Width="200">
+                                    <GridViewColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <StackPanel Margin="6,2,6,2">
+                                                <Label Content="{Binding Delivery_Addresss}"/>
+                                            </StackPanel>
+                                        </DataTemplate>
+                                    </GridViewColumn.CellTemplate>
+                                </GridViewColumn>
+                            </GridView>
+                        </ListView.View>
+                    </ListView>-->
+               </ScrollViewer>
+            </StackPanel>
+        </DockPanel>
+    </Grid>
+</Page>

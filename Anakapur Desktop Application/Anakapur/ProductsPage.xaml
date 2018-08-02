@@ -1,0 +1,345 @@
+﻿<Page
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Anakapur"
+      xmlns:Custom="http://schemas.microsoft.com/winfx/2006/xaml/presentation/ribbon" x:Class="Anakapur.ProductsPage"
+      mc:Ignorable="d" 
+     d:DesignHeight="800" d:DesignWidth="1350"
+      Title="ProductsPage" >
+    <Page.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/Resources/icons.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Page.Resources>
+    <Grid>
+        <StackPanel Orientation="Vertical">
+
+            <Grid >
+                <!--<Rectangle Fill="CadetBlue" Height="50" VerticalAlignment="Center"/>-->
+                <TextBlock  Name="txtName"  Text="Product Details" Margin="5" HorizontalAlignment="Center" FontSize="20" FontWeight="Bold" VerticalAlignment="Center"/>
+            </Grid>
+            <Border  BorderBrush="Black" BorderThickness="2" Height="746" >
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Width="auto" Height="auto" Margin="20,20,20,20">
+                    <StackPanel VerticalAlignment="Top" HorizontalAlignment="Left" Width="800">
+
+                        <DataGrid Height="300" CanUserAddRows="false" HorizontalAlignment="Left" BorderThickness="1" Padding="2"   IsReadOnly="True" Style="{StaticResource AzureDataGrid}"
+          Name="GridProducts" VerticalAlignment="Top" Width="auto" CanUserResizeRows="True"   AutoGenerateColumns="False"   FontSize="15"  
+                                
+ MouseDoubleClick="GridProducts_MouseDoubleClick"  VerticalScrollBarVisibility="Visible" HorizontalScrollBarVisibility="Visible">
+                            <DataGrid.Columns >
+                                <DataGridTextColumn Header="Product ID" Binding="{Binding ProductID}" Width="auto"    />
+                                <DataGridTextColumn Header="Product Name" Binding="{Binding ProductName}" FontWeight="DemiBold"  />
+                                <DataGridTextColumn Header="Short Description" Binding="{Binding ShortDescription}" />
+                                <DataGridTextColumn Header="Price" Binding="{Binding Price}" FontWeight="DemiBold" />
+                                <DataGridTextColumn Header="Available" Binding="{Binding Available}" />
+                                <DataGridTextColumn Header="Remarks" Binding="{Binding Remarks}" />
+                                <DataGridTextColumn Header="Quantity" Binding="{Binding Quanity}" />
+                                <DataGridTextColumn Header="kitchen Description" Binding="{Binding Kitchen Description}" />
+                            </DataGrid.Columns>
+                        </DataGrid>
+                    </StackPanel>
+                    <StackPanel Width="Auto" Margin="20,20,20,20" Height="650" VerticalAlignment="Top" Orientation="Vertical">
+                        <!--<Border Background="GhostWhite" BorderBrush="CadetBlue" BorderThickness="1" Height="371" >-->
+
+                        <Grid >
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto" />
+
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="Auto" />
+                                <RowDefinition Height="Auto" />
+                                <RowDefinition Height="Auto" />
+                                <RowDefinition Height="Auto" />
+                                <RowDefinition Height="Auto" />
+                                <RowDefinition Height="Auto" />
+                                <RowDefinition Height="Auto" />
+                                <RowDefinition Height="Auto" />
+                                <RowDefinition Height="Auto" />
+                                <RowDefinition Height="Auto" />
+                                <RowDefinition Height="Auto" />
+                                <RowDefinition Height="Auto" />
+                                <RowDefinition Height="Auto" />
+                                <RowDefinition Height="Auto" />
+                                <RowDefinition Height="Auto" />
+                                <RowDefinition Height="Auto" />
+                                <RowDefinition Height="Auto" />
+                                <RowDefinition Height="*" />
+                            </Grid.RowDefinitions>
+                            <!--<Label FontSize="15">First Name</Label>-->
+                            <TextBox Grid.Column="1" Name="txtProdName" Controls:TextBoxHelper.Watermark="Product Name" FontSize="15" MaxLength="50" TabIndex="1" FontWeight="SemiBold"  />
+                            <!--<Label FontSize="15" Grid.Row="1">Last Name</Label>-->
+                            <TextBox Grid.Row="1" Grid.Column="1" Name="txtPrice" PreviewTextInput="charValidationTextBox" Controls:TextBoxHelper.Watermark="Price" MaxLength="10" TabIndex="2" FontSize="15" FontWeight="SemiBold"/>
+                            <!--<Label  FontSize="15" Grid.Row="3">Mobile 2: +91</Label>-->
+                            <TextBox Grid.Row="3" Grid.Column="1" AcceptsReturn="True" Name="txtshortdesc" Controls:TextBoxHelper.Watermark="Short Description" FontSize="15" MaxLength="50" TabIndex="4"  FontWeight="SemiBold" />
+                            <!--<Label FontSize="15" Grid.Row="4">Address 1</Label>-->
+                            <TextBox Grid.Row="4" Grid.Column="1" AcceptsReturn="True"  Name="txtlongdesc" Controls:TextBoxHelper.Watermark="Long Description" MaxLength="100" TabIndex="5" FontSize="15" FontWeight="SemiBold"  />
+                            <!--<Label FontSize="15" Grid.Row="5">Address 2</Label>-->
+                            <TextBox Grid.Row="5" Grid.Column="1" AcceptsReturn="True" Name="txtQuantity" Controls:TextBoxHelper.Watermark="Quantity" MaxLength="4"   TabIndex="6" FontSize="15" FontWeight="SemiBold" />
+                            <!--<Label FontSize="15" Grid.Row="8">Email:</Label>-->
+                            <TextBox Grid.Row="8" Grid.Column="1" AcceptsReturn="True" Name="txtdiscount" Controls:TextBoxHelper.Watermark="Discount" FontSize="15"  PreviewTextInput="charValidationTextBox" MaxLength="4" TabIndex="9" FontWeight="SemiBold" />
+                            <!--<Label Content="Upload your picture" Grid.Row="7" Grid.Column="0"  FontSize="15"  ></Label>-->
+
+                            <TextBox Name="txtFileName"  Grid.Row="7" Grid.Column="1" Width="250" Controls:TextBoxHelper.Watermark="Upload File"  TabIndex="7" HorizontalAlignment="Right"></TextBox>
+                            <Button Name="BTN_BROWSE_FILE"  Click="BTN_BROWSE_FILE_Click" Grid.Row="7" Grid.Column="1" Style="{StaticResource AccentedSquareButtonStyle}"   Width="100" Margin="130,5,5,5"  >
+                                <StackPanel Orientation="Horizontal">
+                                    <Rectangle Width="30"
+                   Height="25"
+                   Fill="{Binding RelativeSource={RelativeSource AncestorType=Button}, Path=Foreground}">
+                                        <Rectangle.OpacityMask>
+                                            <VisualBrush Stretch="Fill" Visual="{StaticResource appbar_skydrive_upload}" />
+                                        </Rectangle.OpacityMask>
+                                    </Rectangle>
+                                    <TextBlock Margin="4 0 0 0"
+                   VerticalAlignment="Center"
+                   Text="Browse" />
+                                </StackPanel>
+                            </Button>
+                            <!--<Button Name="BTN_BROWSE_FILE" FontSize="15" Width="70" Content="Browse" TabIndex="8"  Click="BTN_BROWSE_FILE_Click"  Grid.Row="7" Grid.Column="1"></Button>-->
+                            <!--<Separator Grid.Row="7" Grid.ColumnSpan="2" Margin="5,5,5,5"></Separator>-->
+                            <!--<Label FontSize="15" Grid.Row="2">Mobile 1: +91</Label>-->
+                            <ComboBox Grid.Row="2" Grid.Column="1"  Name="cmbDishType" ItemsSource="{Binding}"  FontSize="15"  TabIndex="3"  FontWeight="SemiBold" />
+                            <!--<Label FontSize="15" Grid.Row="9">Remarks</Label>-->
+                            <TextBox Grid.Row="9" Grid.Column="1" AcceptsReturn="True" Name="txtRemarks" FontSize="15" Controls:TextBoxHelper.Watermark="Remarks" MaxLength="50" TabIndex="10"  FontWeight="SemiBold" />
+                            <!--<Label FontSize="15" Grid.Row="10">UserCode</Label>-->
+                            <ComboBox  Name="cmbcatType" FontSize="15" FontWeight="DemiBold" Grid.Row="10" ItemsSource="{Binding}" Grid.Column="1" TabIndex="11" />
+                            <!--<Label FontSize="15" Grid.Row="11">RestCode</Label>-->
+                            <ComboBox  Name="cmbitemcode" FontSize="15" FontWeight="DemiBold" Grid.Row="11" ItemsSource="{Binding}" Grid.Column="1" TabIndex="12"  KeyDown="cmbitemcode_KeyDown" LostFocus="cmbitemcode_LostFocus">
+                                <!--<ComboBoxItem Content="BT"/>
+                                <ComboBoxItem Content="LD"/>
+                                <ComboBoxItem Content="AD"/>
+                                <ComboBoxItem Content="MC"/>
+                                <ComboBoxItem Content="PC"/>-->
+                            </ComboBox>
+                            <!--<Label FontSize="15" Grid.Row="12"  >EmpCode</Label>-->
+                            <TextBox Grid.Row="12" Grid.Column="1" AcceptsReturn="True" Name="txtprodcod" Controls:TextBoxHelper.Watermark="Product code" IsEnabled="False" FontSize="15" FontWeight="SemiBold"/>
+                            <!--<Label FontSize="15" Grid.Row="13" Grid.Column="0" >EmpPassword</Label>-->
+                            <TextBox Grid.Row="13" Grid.Column="1" AcceptsReturn="True" Name="txtTax" FontSize="15" Controls:TextBoxHelper.Watermark="Tax"  PreviewTextInput="charValidationTextBox"  FontWeight="SemiBold"   />
+                            <!--<Label FontSize="15" Grid.Row="14"  Grid.Column="0">Active</Label>-->
+                            <ComboBox  Name="cmbactive"  Grid.Row="14"  Grid.Column="1" TabIndex="12" FontSize="15" FontWeight="DemiBold"  >
+                                <ComboBoxItem IsSelected="True" Tag="1" Content="True"/>
+                                <ComboBoxItem Content="False" Tag="0"/>
+                            </ComboBox>
+                            <TextBox Grid.Row="15" Grid.Column="1" AcceptsReturn="True" Name="txtsih" FontSize="15" MaxLength="4" Controls:TextBoxHelper.Watermark="Stock in hand"  PreviewTextInput="charValidationTextBox"  FontWeight="SemiBold"   />
+                            <TextBox Grid.Row="16" Grid.Column="1" AcceptsReturn="True" Name="txtktdesc" FontSize="15" MaxLength="20" Controls:TextBoxHelper.Watermark="Kitchen Description"  FontWeight="SemiBold"   />
+                            <!--<Button Content="Add" Height="35"  Name="Submit" FontWeight="DemiBold" Style="{StaticResource AccentedSquareButtonStyle}"
+                            FontSize="15"  Width="70" TabIndex="13"  Click="Submit_Click" Margin="-15,163,95,-151" Grid.Row="11"/>-->
+                            <StackPanel Orientation="Horizontal" Grid.Row="17"  Grid.ColumnSpan="2" Width="auto">
+                                <Button  Click="Submit_Click_1"   Style="{StaticResource AccentedSquareButtonStyle}"   Width="150" Name="Submit" Margin="5,5,5,5"  >
+                                    <StackPanel Orientation="Horizontal">
+                                        <Rectangle Width="30"
+                   Height="25"
+                   Fill="{Binding RelativeSource={RelativeSource AncestorType=Button}, Path=Foreground}">
+                                            <Rectangle.OpacityMask>
+                                                <VisualBrush Stretch="Fill" Visual="{StaticResource appbar_save}" />
+                                            </Rectangle.OpacityMask>
+                                        </Rectangle>
+                                        <TextBlock Margin="4 0 0 0"
+                   VerticalAlignment="Center"
+                   Text="Save" />
+                                    </StackPanel>
+                                </Button>
+
+                                <Button   Click="Edit_Click_1"  Style="{StaticResource AccentedSquareButtonStyle}"   Width="150" Name="btnEdit" Margin="5,5,5,5"  >
+                                    <StackPanel Orientation="Horizontal">
+                                        <Rectangle Width="30"
+                   Height="25"
+                   Fill="{Binding RelativeSource={RelativeSource AncestorType=Button}, Path=Foreground}">
+                                            <Rectangle.OpacityMask>
+                                                <VisualBrush Stretch="Fill" Visual="{StaticResource appbar_clipboard_edit}" />
+                                            </Rectangle.OpacityMask>
+                                        </Rectangle>
+                                        <TextBlock Margin="4 0 0 0"
+                   VerticalAlignment="Center"
+                   Text="Edit" />
+                                    </StackPanel>
+                                </Button>
+                               
+
+                                <!--<Button Content="Update" Height="35"  Name="Edit"  FontWeight="DemiBold" Style="{StaticResource AccentedSquareButtonStyle}" FontSize="15"  Width="70" TabIndex="14" Click="Edit_Click" Margin="0,6,0,0" VerticalAlignment="Top"      />-->
+                                <!--<Button Content="Change Password" Height="35"  FontWeight="DemiBold" Style="{StaticResource AccentedSquareButtonStyle}" FontSize="15" TabIndex="15" Name="Changepw" Click="Changepw_Click"    />-->
+                                <!--<Button Conte-->
+                                <!--nt="Done" Height="35"  FontWeight="DemiBold" Style="{StaticResource AccentedSquareButtonStyle}" FontSize="15" TabIndex="15" Name="btndone" Click="btndone_Click"   />-->
+                            </StackPanel>
+                            <StackPanel Name="stkImage" HorizontalAlignment="Center" Margin="5,5,5,5" VerticalAlignment="Top" Grid.Column="0" Grid.Row="0" Grid.RowSpan="10" Width="200" Height="200">
+                                <Border Background="GhostWhite" BorderBrush="Black" BorderThickness="2" Margin="5,5,5,5">
+                                    <Border CornerRadius="4" BorderBrush="Black" BorderThickness="1" Margin="5,5,5,5">
+                                        <Image RenderOptions.BitmapScalingMode="Fant" Name="imgPhoto"
+                              Stretch="Uniform"
+                              Width="auto"
+                              Height="auto"
+                              VerticalAlignment="Top"
+                              Margin="5,5,5,5"
+                             
+                              HorizontalAlignment="Center" />
+                                    </Border>
+                                </Border>
+                            </StackPanel>
+
+                        </Grid>
+
+
+                    </StackPanel>
+
+                </StackPanel>
+
+            </Border>
+
+
+
+
+
+
+
+
+
+
+        </StackPanel>
+
+
+
+    </Grid>
+
+    <!--<Grid>
+        <StackPanel Orientation="Vertical">
+
+            <Grid >
+           
+                <TextBlock  Name="txtName"  Text="Product Details" Margin="5" HorizontalAlignment="Center" FontSize="20" FontWeight="Bold" VerticalAlignment="Center"/>
+            </Grid>
+            <Border Background="GhostWhite" BorderBrush="Black" BorderThickness="2" Height="746" >
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Width="auto" Height="auto" Margin="20,20,20,20">
+                    <StackPanel VerticalAlignment="Top" HorizontalAlignment="Left" Width="500">
+
+                        <DataGrid Height="300" HorizontalAlignment="Left" BorderThickness="1" Padding="2"   IsReadOnly="True" Style="{StaticResource AzureDataGrid}"
+          Name="GridProducts" VerticalAlignment="Top" Width="auto" CanUserResizeRows="True"  RowBackground="LightYellow" AutoGenerateColumns="False"   FontSize="15"  
+                                
+AlternatingRowBackground="LightBlue" MouseDoubleClick="GridProducts_MouseDoubleClick"  VerticalScrollBarVisibility="Visible" HorizontalScrollBarVisibility="Visible">
+                            <DataGrid.Columns >
+                                <DataGridTextColumn Header="ProductID" Binding="{Binding ProductID}" Width="auto"    />
+                                <DataGridTextColumn Header="ProductName" Binding="{Binding ProductName}" FontWeight="DemiBold"  />
+                                <DataGridTextColumn Header="ShortDescription" Binding="{Binding ShortDescription}" />
+                                <DataGridTextColumn Header="Price" Binding="{Binding Price}" FontWeight="DemiBold" />
+                                <DataGridTextColumn Header="Available" Binding="{Binding Available}" />
+                                <DataGridTextColumn Header="Remarks" Binding="{Binding Remarks}" />
+                                <DataGridTextColumn Header="Quanity" Binding="{Binding Quanity}" />
+                            </DataGrid.Columns>
+                        </DataGrid>
+                    </StackPanel>
+                    <StackPanel Width="Auto" Margin="20,20,20,20" Height="458" VerticalAlignment="Top">
+                        --><!--<Border Background="GhostWhite" BorderBrush="CadetBlue" BorderThickness="1" Height="371" >--><!--
+
+                        <Grid Margin="21,10,-1,10">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto" />
+
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="Auto" />
+                                <RowDefinition Height="Auto" />
+                                <RowDefinition Height="Auto" />
+                                <RowDefinition Height="Auto" />
+                                <RowDefinition Height="Auto" />
+                                <RowDefinition Height="Auto" />
+                                <RowDefinition Height="Auto" />
+                                <RowDefinition Height="Auto" />
+                                <RowDefinition Height="Auto" />
+                                <RowDefinition Height="Auto" />
+                                <RowDefinition Height="Auto" />
+                                <RowDefinition Height="*" />
+                            </Grid.RowDefinitions>
+                            <Label FontSize="15">ProductName</Label>
+                            <TextBox Grid.Column="1" Name="txtProdName" FontSize="15" TabIndex="1" MaxLength="30" FontWeight="SemiBold"  />
+                            <Label FontSize="15" Grid.Row="1">Product Price</Label>
+                            <TextBox Grid.Row="1" Grid.Column="1" Name="txtPrice" PreviewTextInput="charValidationTextBox" FontSize="15" TabIndex="2" MaxLength="4" FontWeight="SemiBold"/>
+                            <Label  FontSize="15" Grid.Row="3">Short Description</Label>
+                            <TextBox Grid.Row="3" Grid.Column="1" AcceptsReturn="True" TextWrapping="Wrap"  TabIndex="4" MaxLength="50" Name="txtshortdesc" FontSize="15" FontWeight="SemiBold" />
+                            <Label FontSize="15" Grid.Row="4">Long Description</Label>
+                            <TextBox Grid.Row="4" Grid.Column="1" AcceptsReturn="True" TextWrapping="Wrap" TabIndex="5" MaxLength="50"  Name="txtlongdesc" FontSize="15" FontWeight="SemiBold"  />
+                            <Label FontSize="15" Grid.Row="5">Quantity</Label>
+                            <TextBox Grid.Row="5" Grid.Column="1" AcceptsReturn="True" PreviewTextInput="charValidationTextBox"  Name="txtQuantity" TabIndex="6" MaxLength="4" FontSize="15" FontWeight="SemiBold" />
+                            <Label FontSize="15" Grid.Row="8">Discount</Label>
+                            <TextBox Grid.Row="8" Grid.Column="1" AcceptsReturn="True" Name="txtdiscount" PreviewTextInput="charValidationTextBox" TabIndex="9" MaxLength="4" FontSize="15" FontWeight="SemiBold" />
+                            <Label Content="Upload Product picture" Grid.Row="7" Grid.Column="0"  FontSize="15"  ></Label>
+                            --><!--<Separator Grid.Row="6" Grid.ColumnSpan="2" Margin="5,5,5,5"></Separator>--><!--
+                            <TextBox Name="txtFileName"  Grid.Row="7" Grid.Column="1" Width="250" TabIndex="7"  HorizontalAlignment="Right"></TextBox>
+                            <Button Name="BTN_BROWSE_FILE" FontSize="15" Width="70" Content="Browse" Style="{StaticResource AccentedSquareButtonStyle}" TabIndex="8"  Click="BTN_BROWSE_FILE_Click"  Grid.Row="7" Grid.Column="1"></Button>
+                            --><!--<Separator Grid.Row="7" Grid.ColumnSpan="2" Margin="5,5,5,5"></Separator>--><!--
+                            <Label FontSize="15" Grid.Row="2">Active</Label>
+                            <ComboBox  Name="cmbactive" Grid.Row="2"  TabIndex="3"   Grid.Column="1" FontSize="15" FontWeight="DemiBold" >
+                                <ComboBoxItem Content="True" Tag="1" IsSelected="True"/>
+                                <ComboBoxItem Content="False" Tag="0"/>
+                            </ComboBox>
+                            <Label FontSize="15" Grid.Row="9">Remarks</Label>
+                            <TextBox Grid.Row="9" Grid.Column="1" AcceptsReturn="True" Name="txtRemarks" TabIndex="10" MaxLength="30" FontSize="15" FontWeight="SemiBold" Margin="0,0,0,25" Grid.RowSpan="2" />
+                            <Label FontSize="15" Grid.Row="10">Category Type</Label>
+                            <ComboBox  Name="cmbcatType" FontSize="15" FontWeight="DemiBold" Grid.Row="10" ItemsSource="{Binding}" TabIndex="11"  Grid.Column="1" Margin="0,5,0,35" Grid.RowSpan="2"/>
+                            <Label FontSize="15" Grid.Row="11">Dish Type</Label>
+                            <ComboBox  Name="cmbDishType" FontSize="15" FontWeight="DemiBold" Grid.Row="11" ItemsSource="{Binding}" TabIndex="12" Grid.Column="1" Margin="0,5"/>
+                            <Label FontSize="15" Grid.Row="11" Margin="0,36,0,-36">Item Code</Label>
+                            <ComboBox  Name="cmbitemcode" FontSize="15" FontWeight="DemiBold" Grid.Row="11"  Grid.Column="1" TabIndex="13"   Margin="0,36,0,-29" DataContextChanged="cmbitemcode_DataContextChanged" SelectionChanged="cmbitemcode_SelectionChanged">
+                                <ComboBoxItem Content="BT"/>
+                                <ComboBoxItem Content="LD"/>
+                                <ComboBoxItem Content="AD"/>
+                                <ComboBoxItem Content="MC"/>
+                                <ComboBoxItem Content="PC"/>
+                            </ComboBox>
+                            <Label FontSize="15" Grid.Row="11" Margin="0,65,0,-65" RenderTransformOrigin="0.512,-0.075">Product Code</Label>
+                            <TextBox Grid.Row="11" Grid.Column="1" AcceptsReturn="True" Name="txtprodcod" FontSize="15" IsEnabled="False" FontWeight="SemiBold" Margin="0,65,0,-56" RenderTransformOrigin="0.516,0.129" />
+                            <Label FontSize="15" Grid.Row="11" Margin="5,96,245,-96" RenderTransformOrigin="0.512,-0.075" Grid.ColumnSpan="2">Tax</Label>
+                            <TextBox Grid.Row="11" Grid.Column="1" AcceptsReturn="True" PreviewTextInput="charValidationTextBox" TabIndex="13" MaxLength="3" Name="txtTax" FontSize="15"  FontWeight="SemiBold" Margin="0,96,0,-87" RenderTransformOrigin="0.516,0.129" />
+                            --><!--<Label FontSize="15" Grid.Row="11" Grid.ColumnSpan="2" Margin="5,116,223,-116">Active</Label>
+                            <ComboBox  Name="cmbactive" Grid.Row="11"  Grid.Column="1" Margin="0,116,0,-101">
+                                <ComboBoxItem Content="True"/>
+                                <ComboBoxItem Content="False"/>
+                            </ComboBox>--><!--
+                            <Button Content="Add" Height="28"  Name="Submit" Style="{StaticResource AccentedSquareButtonStyle}" FontWeight="DemiBold" FontSize="15"  Width="70" Click="Submit_Click_1" Margin="-15,163,95,-151" Grid.Row="11"/>
+                            <Button Content="Edit" Height="28"  Name="btnEdit" Style="{StaticResource AccentedSquareButtonStyle}"  FontWeight="DemiBold" FontSize="15"  Width="70" Click="Edit_Click_1"  Margin="60,163,20,-151" Grid.Row="11" RenderTransformOrigin="-0.557,0.357" />
+                            <Button Content="Done" Height="28"  Name="btndone" Style="{StaticResource AccentedSquareButtonStyle}" Click="btndone_Click" FontWeight="DemiBold" FontSize="15"  Width="70"  Margin="142,163,202,-151" Grid.Row="11" RenderTransformOrigin="-0.557,0.357" Grid.ColumnSpan="2" />
+
+                        </Grid>
+                        --><!--</Border>--><!--
+
+                    </StackPanel>
+                    <StackPanel Name="stkImage" HorizontalAlignment="Center" Margin="20,20,20,20" VerticalAlignment="Top" Width="200" Height="200">
+                        <Border Background="GhostWhite" BorderBrush="Black" BorderThickness="2" Margin="5,5,5,5">
+                            <Border Background="GhostWhite" BorderBrush="Black" BorderThickness="1" Margin="5,5,5,5">
+                                <Image RenderOptions.BitmapScalingMode="Fant" Name="imgPhoto"
+                              Stretch="Uniform"
+                              Width="auto"
+                              Height="auto"
+                              VerticalAlignment="Top"
+                              Margin="5,5,5,5"
+                             
+                              HorizontalAlignment="Center" />
+                            </Border>
+                        </Border>
+                    </StackPanel>
+
+                </StackPanel>
+
+            </Border>
+
+            --><!--<Label Name="lblPhonenumber"></Label>--><!--
+
+
+
+
+
+
+
+
+        </StackPanel>
+
+
+
+    </Grid>-->
+   
+</Page>

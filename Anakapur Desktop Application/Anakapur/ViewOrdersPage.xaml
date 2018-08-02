@@ -1,0 +1,219 @@
+﻿<Page x:Class="Anakapur.ViewOrdersPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Anakapur"
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="400"
+      Title="ViewOrdersPage">
+    <Page.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/Resources/icons.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Page.Resources>
+    <Grid>
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Center" Margin="7">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Label Name="lblhead" Content="View Orders" FontWeight="Bold" FontSize="20"/>
+            </StackPanel>
+            <StackPanel Name="stkRadioBtn"  HorizontalAlignment="Center" Orientation="Horizontal"/>
+            <!--<RadioButton GroupName="Rest" Name="BN"  />-->
+            
+            <Separator></Separator>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+        <StackPanel  >
+                <ComboBox  Name="cboOrderStatus"  Width="120"  Margin="0,0,10,0">
+                        <ComboBoxItem Content="New orders" IsSelected="True" Tag="1"/>
+                        <!--string[] Status = { "None", "New Order", "Prepared", "Payment due", 
+                    "Payment complete", "Driver Assigned", "Delivered", "Refunded", "Cancelled",
+                    "Modified", "On Hold", "Order Complete" };-->
+                        <ComboBoxItem Content="Prepared  "  Tag="2"/>
+                        <ComboBoxItem Content="Payment Due  "  Tag="3"/>
+                        <ComboBoxItem Content="Payment Complete"  Tag="4"/>
+                        <ComboBoxItem Content="Driver Assigned"  Tag="5"/>
+                        <ComboBoxItem Content="Delivered "  Tag="6"/>
+                        <ComboBoxItem Content="Complete "  Tag="11"/>
+                        <ComboBoxItem Content="All Orders "  Tag="0"/>
+                    </ComboBox>
+            </StackPanel>
+            <StackPanel>
+                    <DatePicker Name="dtpicker"  Margin="0,0,10,0" FontWeight="Bold"/>
+            </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <Button Name="btnSearch"  Click="btnSearch_Click"  Style="{StaticResource AccentedSquareButtonStyle}"   Width="100" Margin="5,5,5,5"  >
+                        <StackPanel Orientation="Horizontal">
+                            <Rectangle Width="30"
+                   Height="25"
+                   Fill="{Binding RelativeSource={RelativeSource AncestorType=Button}, Path=Foreground}">
+                                <Rectangle.OpacityMask>
+                                    <VisualBrush Stretch="Fill" Visual="{StaticResource appbar_page_search}" />
+                                </Rectangle.OpacityMask>
+                            </Rectangle>
+                            <TextBlock Margin="4 0 0 0"
+                   VerticalAlignment="Center"
+                   Text="Search" />
+                        </StackPanel>
+                    </Button>
+                    <!--<Button Name="btnSearch" Content="Search" Click="btnSearch_Click"  Margin="0,0,10,0"/>-->  
+                </StackPanel>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Name="txtcount" Width="auto" FontSize="15" FontWeight="DemiBold" Margin="10,10,10,10"/>
+                <TextBlock Name="txtamount" Width="auto" FontSize="15" FontWeight="DemiBold" Margin="150,10,10,10"/>
+            </StackPanel>
+            <StackPanel />
+            <StackPanel Orientation="Vertical">
+                <DataGrid Name="dgOrdersData" Width="auto" Height="300" CanUserAddRows="false" FontSize="13" VerticalScrollBarVisibility="Visible" AutoGenerateColumns="False" HorizontalScrollBarVisibility="Visible" BorderThickness="1" Padding="2">
+                    <!--orderid,statusid,statusdiscription,customerphone,customerfname,
+                    customerlname,Billing_Address,Delivery_Addresss,empcode,restcode,
+                    format(orderdate,'dd-MM-yyy') as OrderDate,Quantity,TotalPrice,Discount,Tip,
+                    amountPaid from #temptable where restcode=@RestCode-->
+
+                    <DataGrid.Columns>
+                        <DataGridTemplateColumn Header="Order Id">
+                            <DataGridTemplateColumn.CellTemplate >
+                                <DataTemplate >
+
+                                    <Button  Click="DG_Hyperlink_Click" Content="{Binding orderid}"  Style="{StaticResource {x:Static ToolBar.ButtonStyleKey}}" Tag="{Binding orderid}"></Button>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                        <DataGridTemplateColumn Header="Order date">
+                            <DataGridTemplateColumn.CellTemplate >
+                                <DataTemplate >
+                                    <Label Content="{Binding OrderDate }"></Label>
+                                      </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                        <DataGridTemplateColumn Header="Status">
+                            <DataGridTemplateColumn.CellTemplate >
+                                <DataTemplate >
+                                    <Label Content="{Binding statusdiscription }"></Label>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                        <DataGridTemplateColumn Header="Phone">
+                            <DataGridTemplateColumn.CellTemplate >
+                                <DataTemplate >
+                                    <Label Content="{Binding customerphone }"></Label>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                        <DataGridTemplateColumn Header="Customer FName">
+                            <DataGridTemplateColumn.CellTemplate >
+                                <DataTemplate >
+                                    <Label Content="{Binding customerfname }"></Label>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                        <DataGridTemplateColumn Header="Customer LName">
+                            <DataGridTemplateColumn.CellTemplate >
+                                <DataTemplate >
+                                    <Label Content="{Binding customerlname }"></Label>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                        <DataGridTemplateColumn Header="Rest">
+                            <DataGridTemplateColumn.CellTemplate >
+                                <DataTemplate >
+                                    <Label Content="{Binding restcode }"></Label>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                        <DataGridTemplateColumn Header="Quantity">
+                            <DataGridTemplateColumn.CellTemplate >
+                                <DataTemplate >
+                                    <Label Content="{Binding Quantity }"></Label>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                        <DataGridTemplateColumn Header="Total Price">
+                            <DataGridTemplateColumn.CellTemplate >
+                                <DataTemplate >
+                                    <Label FontWeight="Bold" Content="{Binding TotalPrice }"></Label>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                        <DataGridTemplateColumn Header="Delivery charge">
+                            <DataGridTemplateColumn.CellTemplate >
+                                <DataTemplate >
+                                    <Label FontWeight="Bold" Content="{Binding Deliverycharges }"></Label>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                        <DataGridTemplateColumn Header="CGST">
+                            <DataGridTemplateColumn.CellTemplate >
+                                <DataTemplate >
+                                    <Label FontWeight="Bold" Content="{Binding cgstcharges }"></Label>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                        <DataGridTemplateColumn Header="SGST">
+                            <DataGridTemplateColumn.CellTemplate >
+                                <DataTemplate >
+                                    <Label FontWeight="Bold" Content="{Binding sgstcharges }"></Label>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                        <DataGridTemplateColumn Header="Amount Paid">
+                            <DataGridTemplateColumn.CellTemplate >
+                                <DataTemplate >
+                                    <Label FontWeight="Bold" Content="{Binding amountPaid }"></Label>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                        <DataGridTemplateColumn Header="Order Time">
+                            <DataGridTemplateColumn.CellTemplate >
+                                <DataTemplate >
+                                    <Label FontWeight="Bold" Content="{Binding ordertime }"></Label>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                        <DataGridTemplateColumn Header="Deliver Time">
+                            <DataGridTemplateColumn.CellTemplate >
+                                <DataTemplate >
+                                    <Label FontWeight="Bold" Content="{Binding tobedeliver }"></Label>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                        <DataGridTemplateColumn Header="Remarks">
+                            <DataGridTemplateColumn.CellTemplate >
+                                <DataTemplate >
+                                    <Label FontWeight="DemiBold" Content="{Binding Remarks }"></Label>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                        <DataGridTemplateColumn Header="OrderType">
+                            <DataGridTemplateColumn.CellTemplate >
+                                <DataTemplate >
+                                    <Label FontWeight="DemiBold" Content="{Binding OrderType }"></Label>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                        <DataGridTemplateColumn Header="TransactionId">
+                            <DataGridTemplateColumn.CellTemplate >
+                                <DataTemplate >
+                                    <Label FontWeight="DemiBold" Content="{Binding TransactionId }"></Label>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                        <DataGridTemplateColumn Header="Transaction Status">
+                            <DataGridTemplateColumn.CellTemplate >
+                                <DataTemplate >
+                                    <Label FontWeight="DemiBold" Content="{Binding TransactionStatus }"></Label>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                    </DataGrid.Columns>
+    
+                </DataGrid>
+            </StackPanel>
+            <Image x:Name="picImage" Height="100" Width="100"/>
+            <Image x:Name="image2" Height="100" Width="100"/>
+        </StackPanel>
+    </Grid>
+</Page>

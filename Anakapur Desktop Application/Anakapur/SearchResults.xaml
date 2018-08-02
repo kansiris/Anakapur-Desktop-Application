@@ -1,0 +1,87 @@
+﻿<Window x:Class="Anakapur.SearchResults"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        xmlns:local="clr-namespace:Anakapur"
+        mc:Ignorable="d"
+        Title="SearchResults" Height="500" Width="800" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <!--<Expander Header="More Results" Name="expandRes" Expanded="expandRes_Expanded"  Width="1000" Collapsed="expandRes_Collapsed"  Grid.Row="2" Grid.Column="0" >-->
+            <StackPanel Name="stkListView" Visibility="Visible" ScrollViewer.HorizontalScrollBarVisibility="Visible" ScrollViewer.VerticalScrollBarVisibility="Visible">
+                <ListView Name="lstCustomerResult" FontSize="15" BorderThickness="1" Padding="2" PreviewMouseLeftButtonUp="lstCustomerResult_PreviewMouseLeftButtonUp"  Margin="20,20,20,20">
+                    <ListView.View>
+                        <GridView x:Name="CustomerGrid">
+                            <GridViewColumn Header="Phone" Width="100">
+                                <GridViewColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <StackPanel Margin="6,2,6,2">
+                                            <Label Content="{Binding CustPhoneNumber}"/>
+                                        </StackPanel>
+                                    </DataTemplate>
+                                </GridViewColumn.CellTemplate>
+                            </GridViewColumn>
+                            <GridViewColumn Header="First Name" Width="100">
+                                <GridViewColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <StackPanel Margin="6,2,6,2">
+                                            <Label Content="{Binding CustomerFName}" />
+                                        </StackPanel>
+                                    </DataTemplate>
+                                </GridViewColumn.CellTemplate>
+                            </GridViewColumn>
+                            <GridViewColumn Header="Last Name" Width="100">
+                                <GridViewColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <StackPanel Margin="6,2,6,2">
+                                            <Label Content="{Binding CustomerLName}"/>
+                                        </StackPanel>
+                                    </DataTemplate>
+                                </GridViewColumn.CellTemplate>
+                            </GridViewColumn>
+                            <GridViewColumn Header="Delivery Address" Width="300">
+                                <GridViewColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <StackPanel Margin="6,2,6,2">
+                                            <Label Content="{Binding Delivery_Addresss}"/>
+                                        </StackPanel>
+                                    </DataTemplate>
+                                </GridViewColumn.CellTemplate>
+                            </GridViewColumn>
+                            <GridViewColumn Header="Land Mark" Width="300">
+                                <GridViewColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <StackPanel Margin="6,2,6,2">
+                                            <Label Content="{Binding Land_mark}"/>
+                                        </StackPanel>
+                                    </DataTemplate>
+                                </GridViewColumn.CellTemplate>
+                            </GridViewColumn>
+
+                        </GridView>
+                    </ListView.View>
+                    <ListView.GroupStyle>
+                        <GroupStyle>
+                            <GroupStyle.ContainerStyle>
+                                <Style TargetType="{x:Type GroupItem}">
+                                    <Setter Property="Template">
+                                        <Setter.Value>
+                                            <ControlTemplate>
+                                                <Expander Header="{Binding CustPhoneNumber}" IsExpanded="True" >
+                                                    <ItemsPresenter />
+                                                </Expander>
+                                            </ControlTemplate>
+                                        </Setter.Value>
+                                    </Setter>
+                                </Style>
+                            </GroupStyle.ContainerStyle>
+
+                        </GroupStyle>
+                    </ListView.GroupStyle>
+                </ListView>
+            </StackPanel>
+        <!--</Expander>-->
+
+    </Grid>
+</Window>

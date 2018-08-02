@@ -1,0 +1,57 @@
+﻿<Page x:Class="Anakapur.LandingPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Anakapur"
+      mc:Ignorable="d" 
+      d:DesignHeight="900" d:DesignWidth="1000"
+      Title="LandingPage">
+
+    <Grid>
+        <DockPanel LastChildFill="True">
+            <ToolBarTray DockPanel.Dock="Top" Background="AliceBlue" HorizontalAlignment="Center">
+              
+                <ToolBar Height="120">
+                    <Label>This is space for Agent</Label>
+                    <Separator></Separator>
+                    <Button x:Name="btnNewOrder"  ToolTip="New Dish" Click="btnNewOrder_Click"  >
+                        <StackPanel Orientation="Vertical">
+                            <Image Source="/Images/Dishes.png"  Height="80"/>
+                            <TextBlock Margin="3,0,0,0" FontSize="20" HorizontalAlignment="Center">New order</TextBlock>
+
+                        </StackPanel>
+                    </Button>
+                    <Separator></Separator>
+                    <!--<Button Command="Copy" ToolTip="Find Customers"    >
+                        <StackPanel Orientation="Vertical">
+                            <Image Source="/Images/Customer.png"  Height="80"/>
+                            <TextBlock Margin="3,0,0,0" FontSize="20" HorizontalAlignment="Center">Customers</TextBlock>
+                        </StackPanel>
+                    </Button>-->
+                    <Button x:Name="btnCustSearch" ToolTip="Find Customers" Click="btnCustSearch_Click">
+                        <StackPanel Orientation="Vertical">
+                            <Image Source="/Images/Customer.png"  Height="80"/>
+                            <TextBlock Margin="3,0,0,0" FontSize="20" HorizontalAlignment="Center">Customers</TextBlock>
+                        </StackPanel>
+                    </Button>
+                    <Separator></Separator>
+                    <Button Command="Paste" ToolTip="View the tickets" Margin="0,0,0,0">
+                        <StackPanel Orientation="Vertical">
+                            <Image Source="/Images/restaurant-blue-icon.png"  Height="80" />
+                            <TextBlock Margin="3,0,0,0" FontSize="20" HorizontalAlignment="Center">Tickets</TextBlock>
+                        </StackPanel>
+                    </Button>
+                    <Separator></Separator>
+                    <Label>This is space for Customer</Label>
+                </ToolBar>
+
+            </ToolBarTray>
+            <Button Content="Dock=Bottom" DockPanel.Dock="Bottom"/>
+
+            <Frame Name="frmMain"   BorderBrush="Aqua" Background="FloralWhite"/>
+
+
+        </DockPanel>
+    </Grid>
+</Page>

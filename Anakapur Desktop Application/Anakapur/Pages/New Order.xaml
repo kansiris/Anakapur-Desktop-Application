@@ -1,0 +1,159 @@
+﻿<Page x:Class="Anakapur.Pages.New_Order"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Anakapur.Pages"    
+      mc:Ignorable="d"
+      Title="New_Order" Height="402.74" Width="708.904">
+    <!--xmlns:layoutToolkit="clr-namespace:System.Windows.Controls;assembly=System.Windows.Controls.Layout.Toolkit"-->
+
+    <Grid Name="grdData" >
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="49*"/>
+            <ColumnDefinition Width="15*"/>
+            <ColumnDefinition Width="236*"/>
+        </Grid.ColumnDefinitions>
+
+        <DockPanel Grid.ColumnSpan="3">
+            <Border Background="Aqua" DockPanel.Dock="Top">
+                <TextBlock Text="Customer Name" />
+            </Border>
+            <Border Background="Red" DockPanel.Dock="Bottom">
+                <TextBlock Text="Dock:Bottom" />
+            </Border>
+            <Border Background="Orange" DockPanel.Dock="Left">
+                <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" 
+                  Text="Dock:Left" />
+            </Border>
+            <Border Background="Coral" DockPanel.Dock="Right">
+                <ListBox x:Name="lstElements" VirtualizingStackPanel.IsVirtualizing="True" 
+    VirtualizingStackPanel.VirtualizationMode="Recycling" ItemsSource="{Binding}"  HorizontalAlignment="Center" VerticalAlignment="Center">
+                    Items List</ListBox>
+                <!--<TextBlock HorizontalAlignment="Center" VerticalAlignment="Center"
+                     Text="Dock:Right" />-->
+            </Border>
+            <Border Background="Cornsilk" DockPanel.Dock="Left" >
+                <Grid  Margin="0,22,0,0" Width="241">
+                    <!--<Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition Width="0*"/>
+                        <ColumnDefinition Width="0*"/>
+                        <ColumnDefinition Width="0*"/>
+                        <ColumnDefinition Width="0*"/>
+                    </Grid.ColumnDefinitions>-->
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="50*" />
+                        <RowDefinition Height="50*" />
+                        <RowDefinition Height="46*" />
+                        <RowDefinition Height="54*" />
+                        <RowDefinition Height="49*" />
+                    </Grid.RowDefinitions>
+                    <!--<Button x:Name="button" Content="Button"/>-->
+                    <!--<Button x:Name="btnBreakFast" Content="BreakFast" Margin="0,0,10,0"/>-->
+                    <!--<Label Name="lblData" />-->
+                    <Expander Name="BreakFast" MouseDown="BreakFast_MouseDown" Margin="-10,-33,10,0" Grid.RowSpan="2" RenderTransformOrigin="0.536,0.234"/>
+                    <!--<lable name="lbldata"></lable>-->
+                    <StackPanel Name="spdata" Width="Auto" Orientation="Horizontal"/>
+                    <!--<layoutToolkit:Accordion>
+
+                        <layoutToolkit:AccordionItem Header="Red">
+
+                            <Rectangle Fill="Red" Height="120" Width="200" />
+
+                        </layoutToolkit:AccordionItem>
+
+                        <layoutToolkit:AccordionItem Header="Orange">
+
+                            <Rectangle Fill="Orange" Height="120" Width="200" />
+
+                        </layoutToolkit:AccordionItem>
+
+                        <layoutToolkit:AccordionItem Header="Yellow">
+
+                            <Rectangle Fill="Yellow" Height="120" Width="200" />
+
+                        </layoutToolkit:AccordionItem>
+
+                        <layoutToolkit:AccordionItem Header="Green">
+
+                            <Rectangle Fill="Green" Height="120" Width="200" />
+
+                        </layoutToolkit:AccordionItem>
+
+                        <layoutToolkit:AccordionItem Header="Blue">
+
+                            <Rectangle Fill="Blue" Height="120" Width="200" />
+
+                        </layoutToolkit:AccordionItem>
+
+                        <layoutToolkit:AccordionItem Header="Indigo">
+
+                            <Rectangle Fill="Indigo" Height="120" Width="200" />
+
+                        </layoutToolkit:AccordionItem>
+
+                        <layoutToolkit:AccordionItem Header="Violet">
+
+                            <Rectangle Fill="Violet" Height="120" Width="200" />
+
+                        </layoutToolkit:AccordionItem>
+
+                    </layoutToolkit:Accordion>-->
+
+                    <Button x:Name="btnLunch"  Content="Lunch/Dinner" Margin="0,31,10,22" Grid.Row="2" Grid.RowSpan="2"/>
+                    <Button x:Name="btnCombo"  Content="Combo" Margin="0,31,10,15" Grid.Row="1" Grid.RowSpan="2"/>
+                    <Button x:Name="btnFamilyPack"  Content="Family Pack" Click="btnFamilyPack_Click" Margin="0,22,10,26" Grid.Row="3" Grid.RowSpan="2" />
+
+                    <!--<ListView Name="lvUpgrade">
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn Width="20px">
+                                    <GridViewColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <Image Source="{Binding Path=Icon}" />
+                                        </DataTemplate>
+                                    </GridViewColumn.CellTemplate>
+                                </GridViewColumn>
+                                <GridViewColumn Width="75px" DisplayMemberBinding="{Binding Path=Time, StringFormat={}{0:HH:mm:ss}}" />
+                                <GridViewColumn Width="300px" Header="Nachricht" DisplayMemberBinding="{Binding Path=Message}" />
+                            </GridView>
+                        </ListView.View>
+                    </ListView>-->
+
+                    <!--<Frame  NavigationUIVisibility="Hidden" Name="frmContent" Source="BreakFast.xaml" >
+                    </Frame>-->
+
+                </Grid>
+            </Border>
+        </DockPanel>
+
+        <!--<Grid.ColumnDefinitions>
+            <ColumnDefinition Width="100" />
+            <ColumnDefinition Width="100" />
+            <ColumnDefinition Width="50" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="100" />
+
+        </Grid.ColumnDefinitions>
+        <TextBlock Grid.Row="1" Grid.ColumnSpan="3" FontSize="55" HorizontalAlignment="Center" VerticalAlignment="Center" TextWrapping="Wrap">
+       
+        Top</TextBlock>
+        <TextBlock FontSize="55" HorizontalAlignment="Center" VerticalAlignment="Center" TextWrapping="Wrap">
+            <InlineUIContainer>
+        		  <Menu DockPanel.Dock="Top">
+            <MenuItem Header="Orders">
+                <MenuItem Header="Item" />
+                <Separator />
+                <MenuItem Header="_Exit" />
+            </MenuItem>
+        </Menu>
+        	</InlineUIContainer></TextBlock>
+        <GridSplitter Grid.Column="1" Width="5" HorizontalAlignment="Stretch" />
+        <TextBlock Grid.Column="2" FontSize="55" HorizontalAlignment="Center" VerticalAlignment="Center" TextWrapping="Wrap">Right side</TextBlock>
+        <GridSplitter Grid.Column="3" Width="5" HorizontalAlignment="Stretch" />
+        <TextBlock Grid.Column="3" FontSize="55" HorizontalAlignment="Center" VerticalAlignment="Center" TextWrapping="Wrap">Left side</TextBlock>-->
+
+    </Grid>
+
+</Page>
